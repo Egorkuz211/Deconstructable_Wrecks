@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Polish" nowhitespace="false" translatedname="Polski">
+    <entityname.reactor_originalwrecked>Stary reaktor jądrowy</entityname.reactor_originalwrecked>
+    <entityname.railgun_originalwrecked>Stare działo</entityname.railgun_originalwrecked>
+    <entityname.periscope_originalwrecked>Stary peryskop</entityname.periscope_originalwrecked>
+    <entityname.railgunloader_originalwrecked>Stara ładownica do działa</entityname.railgunloader_originalwrecked>
+    <entityname.railgunloadersinglevertical_originalwrecked>Stara ładownica do działa</entityname.railgunloadersinglevertical_originalwrecked>
+    <entityname.railgunloadersinglehorizontal_originalwrecked>Stara ładownica do działa</entityname.railgunloadersinglehorizontal_originalwrecked>
+    <entityname.coilgun_originalwrecked>Stare działo</entityname.coilgun_originalwrecked>
+    <entityname.coilgunloader_originalwrecked>Stara ładownica do działa</entityname.coilgunloader_originalwrecked>
+    <entityname.oxygenerator_originalwrecked>Stary generator tlenu</entityname.oxygenerator_originalwrecked>
+    <entityname.shuttleoxygenerator_originalwrecked>Stary generator tlenu z transportowca</entityname.shuttleoxygenerator_originalwrecked>
+    <entityname.fabricator_originalwrecked>Stary fabrykator</entityname.fabricator_originalwrecked>
+    <entityname.medicalfabricator_originalwrecked>Stary fabrykator medyczny</entityname.medicalfabricator_originalwrecked>
+    <entityname.deconstructor_originalwrecked>Stary dekonstruktor</entityname.deconstructor_originalwrecked>
+    <entityname.engine_originalwrecked>Stary silnik</entityname.engine_originalwrecked>
+    <entityname.largeengine_originalwrecked>Stary duży silnik</entityname.largeengine_originalwrecked>
+    <entityname.shuttleengine_originalwrecked>Stary silnik z transportowca</entityname.shuttleengine_originalwrecked>
+    <entityname.dockingport_originalwrecked>Stary port dokujący</entityname.dockingport_originalwrecked>
+    <entityname.dockinghatch_originalwrecked>Stary właz dokujący</entityname.dockinghatch_originalwrecked>
+    <entityname.suppliescabinet_originalwrecked>Stara szafka na zapasy</entityname.suppliescabinet_originalwrecked>
+    <entityname.mediumsteelcabinet_originalwrecked>Stara stalowa szafka</entityname.mediumsteelcabinet_originalwrecked>
+    <entityname.mediumwindowedsteelcabinet_originalwrecked>Stara stalowa szafka z okienkiem</entityname.mediumwindowedsteelcabinet_originalwrecked>
+    <entityname.steelcabinet_originalwrecked>Stara metalowa szafka</entityname.steelcabinet_originalwrecked>
+    <entityname.securesteelcabinet_originalwrecked>Stary sejf</entityname.securesteelcabinet_originalwrecked>
+    <entityname.railgunshellrack_originalwrecked>Stary stojak na pociski</entityname.railgunshellrack_originalwrecked>
+    <entityname.coilgunammoshelf_originalwrecked>Stary stojak na amunicję</entityname.coilgunammoshelf_originalwrecked>
+    <entityname.medcabinet_originalwrecked>Stara szafka medyczna</entityname.medcabinet_originalwrecked>
+    <entityname.toxcabinet_originalwrecked>Stara szafka na toksyny</entityname.toxcabinet_originalwrecked>
+    <entityname.divingsuitlocker_originalwrecked>Stara półka na skafander</entityname.divingsuitlocker_originalwrecked>
+    <entityname.oxygentankshelf_originalwrecked>Stara półka na butle z tlenem</entityname.oxygentankshelf_originalwrecked>
+    <entityname.extinguisherbracket_originalwrecked>Stary stojak na gaśnicę</entityname.extinguisherbracket_originalwrecked>
+    <entityname.weaponholder_originalwrecked>Stary stojak na broń</entityname.weaponholder_originalwrecked>
+    <entityname.navterminal_originalwrecked>Stary terminal nawigacyjny</entityname.navterminal_originalwrecked>
+    <entityname.shuttlenavterminal_originalwrecked>Stary terminal nawigacyjny z transportowca</entityname.shuttlenavterminal_originalwrecked>
+    <entityname.statusmonitor_originalwrecked>Stary monitor</entityname.statusmonitor_originalwrecked>
+    <entityname.sonartransducer_originalwrecked>Stary przetwornik sonaru</entityname.sonartransducer_originalwrecked>
+    <entityname.junctionbox_originalwrecked>Stara skrzynka elektryczna</entityname.junctionbox_originalwrecked>
+    <entityname.battery_originalwrecked>Stara bateria</entityname.battery_originalwrecked>
+    <entityname.shuttlebattery_originalwrecked>Stara bateria z transportowca</entityname.shuttlebattery_originalwrecked>
+    <entityname.supercapacitor_originalwrecked>Stary super kondensator</entityname.supercapacitor_originalwrecked>
+    <entityname.chargingdock_originalwrecked>Stara stacja ładująca</entityname.chargingdock_originalwrecked>
+    <entityname.lamp_originalwrecked>Stara lampa</entityname.lamp_originalwrecked>
+    <entityname.bunk_originalwrecked>Stara prycza</entityname.bunk_originalwrecked>
+
+    <hudbutton.detach_reactor>Odłącz reaktor</hudbutton.detach_reactor>
+    <hudbutton.detach_railgun>Odłącz Działo</hudbutton.detach_railgun>
+    <hudbutton.detach_periscope>Odłącz Peryskop</hudbutton.detach_periscope>
+    <hudbutton.detach_loader>Odłącz ładownicę (usuń z niej przedmioty)</hudbutton.detach_loader>
+    <hudbutton.detach_coilgun>Odłącz Działo</hudbutton.detach_coilgun>
+    <hudbutton.detach_oxygen_generator>Odłącz Generator Tlenu</hudbutton.detach_oxygen_generator>
+    <hudbutton.detach_vent>Odłącz Szyb Wentylacyjny</hudbutton.detach_vent>
+    <hudbutton.detach_ladder>Odłącz drabinę</hudbutton.detach_ladder>
+    <hudbutton.detach_fabricator>Odłącz Fabrykator</hudbutton.detach_fabricator>
+    <hudbutton.detach_med_fabricator>Odłącz Fabykator Medyczny</hudbutton.detach_med_fabricator>
+    <hudbutton.detach_deconstructor>Odłącz Denstruktor</hudbutton.detach_deconstructor>
+    <hudbutton.detach_engine>Odłącz Silnik</hudbutton.detach_engine>
+    <hudbutton.detach_door>Odłącz Drzwi</hudbutton.detach_door>
+    <hudbutton.detach_docking_port>Odłącz Port Dokujący</hudbutton.detach_docking_port>
+    <hudbutton.detach_docking_hatch>Odłącz Właż Dokujący</hudbutton.detach_docking_hatch>
+    <hudbutton.detach_supplies_cabinet_first_remove_items>Odłącz Kasetkę (usuń z niej przedmioty)</hudbutton.detach_supplies_cabinet_first_remove_items>
+    <hudbutton.detach_medium_steel_cabinet_first_remove_items>Odlącz Szafkę (usuń z niej przedmioty)</hudbutton.detach_medium_steel_cabinet_first_remove_items>
+    <hudbutton.detach_steel_cabinet_first_remove_items>Odłącz Stalową Szafkę (usuń z niej przedmioty)</hudbutton.detach_steel_cabinet_first_remove_items>
+    <hudbutton.detach_secure_cabinet_first_remove_items>Odlącz Szejf (usuń z niego przedmioty)</hudbutton.detach_secure_cabinet_first_remove_items>
+    <hudbutton.detach_railgun_rack_first_remove_items>Odłącz Stojak na Pociski (usuń z niego przedmioty)</hudbutton.detach_railgun_rack_first_remove_items>
+    <hudbutton.detach_coilgun_rack_first_remove_items>Odłącz Szafkę na Amunicję (usuń z niej przedmioty)</hudbutton.detach_coilgun_rack_first_remove_items>
+    <hudbutton.detach_med_cabinet_first_remove_items>Odłącz Kasetkę Medyczną (usuń z niej przedmioty)</hudbutton.detach_med_cabinet_first_remove_items>
+    <hudbutton.detach_tox_cabinet_first_remove_items>Odłącz Kasetkę na Toksyny (usuń z niej przedmioty)</hudbutton.detach_tox_cabinet_first_remove_items>
+    <hudbutton.detach_diving_locker_first_remove_items>Odłącz Szafkę (usuń z niej skafander)</hudbutton.detach_diving_locker_first_remove_items>
+    <hudbutton.detach_oxygen_shelf_first_remove_items>Odłącz Szafkę na butle (usuń z niej przedmioty)</hudbutton.detach_oxygen_shelf_first_remove_items>
+    <hudbutton.detach_extinguisher_bracket_first_remove_items>Odłącz Stojak (usuń z niego gaśnicę)</hudbutton.detach_extinguisher_bracket_first_remove_items>
+    <hudbutton.detach_weapon_holder_first_remove_items>Odłącz Stojak na Broń (usuń z niego przemiot)</hudbutton.detach_weapon_holder_first_remove_items>
+    <hudbutton.detach_terminal>Odłącz Terminal Nawigacyjny</hudbutton.detach_terminal>
+    <hudbutton.detach_monitor>Odłącz Monitor</hudbutton.detach_monitor>
+    <hudbutton.detach_transducer>Odłącz Przetwornik Sygnału</hudbutton.detach_transducer>
+    <hudbutton.detach_junctionbox>Odłącz Skrzynkę Elektryczną</hudbutton.detach_junctionbox>
+    <hudbutton.detach_battery_first_remove_items>Odłącz Baterię (usuń z niej przedmioty)</hudbutton.detach_battery_first_remove_items>
+    <hudbutton.detach_capacitor>Odłącz Super Kondensator</hudbutton.detach_capacitor>
+    <hudbutton.detach_charging_dock_first_remove_items>Odłącz Stację Ładującą (usuń z niej baterie)</hudbutton.detach_charging_dock_first_remove_items>
+    <hudbutton.detach_lamp>Odłącz Lampę</hudbutton.detach_lamp>
+    <hudbutton.detach_bunk>Odłącz Pryczę</hudbutton.detach_bunk>
+</infotexts>

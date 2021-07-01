@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="English" nowhitespace="false" translatedname="English">
+    <entityname.reactor_originalwrecked>Old nuclear reactor</entityname.reactor_originalwrecked>
+    <entityname.railgun_originalwrecked>Old Railgun</entityname.railgun_originalwrecked>
+    <entityname.periscope_originalwrecked>Old Periscope</entityname.periscope_originalwrecked>
+    <entityname.railgunloader_originalwrecked>Old Railgun Loader</entityname.railgunloader_originalwrecked>
+    <entityname.railgunloadersinglevertical_originalwrecked>Old Railgun Loader</entityname.railgunloadersinglevertical_originalwrecked>
+    <entityname.railgunloadersinglehorizontal_originalwrecked>Old Railgun Loader</entityname.railgunloadersinglehorizontal_originalwrecked>
+    <entityname.coilgun_originalwrecked>Old Coilgun</entityname.coilgun_originalwrecked>
+    <entityname.coilgunloader_originalwrecked>Old Coilgun Loader</entityname.coilgunloader_originalwrecked>
+    <entityname.oxygenerator_originalwrecked>Old Oxygen Generator</entityname.oxygenerator_originalwrecked>
+    <entityname.shuttleoxygenerator_originalwrecked>Old Oxygen Generator from Shuttle</entityname.shuttleoxygenerator_originalwrecked>
+    <entityname.fabricator_originalwrecked>Old Fabricator</entityname.fabricator_originalwrecked>
+    <entityname.medicalfabricator_originalwrecked>Old Medical Fabricator</entityname.medicalfabricator_originalwrecked>
+    <entityname.deconstructor_originalwrecked>Old Deconstructor</entityname.deconstructor_originalwrecked>
+    <entityname.engine_originalwrecked>Old Engine</entityname.engine_originalwrecked>
+    <entityname.largeengine_originalwrecked>Old Large Engine</entityname.largeengine_originalwrecked>
+    <entityname.shuttleengine_originalwrecked>Old Engine from Shuttle</entityname.shuttleengine_originalwrecked>
+    <entityname.dockingport_originalwrecked>Old Docking Port</entityname.dockingport_originalwrecked>
+    <entityname.dockinghatch_originalwrecked>Old Docking Hatch</entityname.dockinghatch_originalwrecked>
+    <entityname.suppliescabinet_originalwrecked>Old Supplies Cabinet</entityname.suppliescabinet_originalwrecked>
+    <entityname.mediumsteelcabinet_originalwrecked>Old Medium Steel Cabinet</entityname.mediumsteelcabinet_originalwrecked>
+    <entityname.mediumwindowedsteelcabinet_originalwrecked>Old Medium Window Steel Cabinet</entityname.mediumwindowedsteelcabinet_originalwrecked>
+    <entityname.steelcabinet_originalwrecked>Old Steel Cabinet</entityname.steelcabinet_originalwrecked>
+    <entityname.securesteelcabinet_originalwrecked>Old Secure Steel Cabinet</entityname.securesteelcabinet_originalwrecked>
+    <entityname.railgunshellrack_originalwrecked>Old Railgun Shell Rack</entityname.railgunshellrack_originalwrecked>
+    <entityname.coilgunammoshelf_originalwrecked>Old Coilgun Rack</entityname.coilgunammoshelf_originalwrecked>
+    <entityname.medcabinet_originalwrecked>Old Medical Cabinet</entityname.medcabinet_originalwrecked>
+    <entityname.toxcabinet_originalwrecked>Old Cabinet for Toxins</entityname.toxcabinet_originalwrecked>
+    <entityname.divingsuitlocker_originalwrecked>Old Diving Suit Locker</entityname.divingsuitlocker_originalwrecked>
+    <entityname.oxygentankshelf_originalwrecked>Old Oxygen tank Shelf</entityname.oxygentankshelf_originalwrecked>
+    <entityname.extinguisherbracket_originalwrecked>Old Fire Extinguisher Bracket</entityname.extinguisherbracket_originalwrecked>
+    <entityname.weaponholder_originalwrecked>Old Weapon Holder</entityname.weaponholder_originalwrecked>
+    <entityname.navterminal_originalwrecked>Old Navigation Terminal</entityname.navterminal_originalwrecked>
+    <entityname.shuttlenavterminal_originalwrecked>Old Navigation Terminal from Shuttle</entityname.shuttlenavterminal_originalwrecked>
+    <entityname.statusmonitor_originalwrecked>Old Status Monitor</entityname.statusmonitor_originalwrecked>
+    <entityname.sonartransducer_originalwrecked>Old Sonar Transducer</entityname.sonartransducer_originalwrecked>
+    <entityname.junctionbox_originalwrecked>Old Junction Box</entityname.junctionbox_originalwrecked>
+    <entityname.battery_originalwrecked>Old Battery</entityname.battery_originalwrecked>
+    <entityname.shuttlebattery_originalwrecked>Old Battery from Shuttle</entityname.shuttlebattery_originalwrecked>
+    <entityname.supercapacitor_originalwrecked>Old Super Capacitor</entityname.supercapacitor_originalwrecked>
+    <entityname.chargingdock_originalwrecked>Old Charging Dock</entityname.chargingdock_originalwrecked>
+    <entityname.lamp_originalwrecked>Old Lamp</entityname.lamp_originalwrecked>
+    <entityname.bunk_originalwrecked>Old Bunk</entityname.bunk_originalwrecked>
+
+    <hudbutton.detach_reactor>Detach Reactor</hudbutton.detach_reactor>
+    <hudbutton.detach_railgun>Detach Railgun</hudbutton.detach_railgun>
+    <hudbutton.detach_periscope>Detach Periscope</hudbutton.detach_periscope>
+    <hudbutton.detach_loader>Detach Loader (remove items first)</hudbutton.detach_loader>
+    <hudbutton.detach_coilgun>Detach Coilgun</hudbutton.detach_coilgun>
+    <hudbutton.detach_oxygen_generator>Detach Oxygen Generator</hudbutton.detach_oxygen_generator>
+    <hudbutton.detach_vent>Detach Vent</hudbutton.detach_vent>
+    <hudbutton.detach_ladder>Detach Ladder</hudbutton.detach_ladder>
+    <hudbutton.detach_fabricator>Detach Fabricator</hudbutton.detach_fabricator>
+    <hudbutton.detach_med_fabricator>Detach Medical Fabricator</hudbutton.detach_med_fabricator>
+    <hudbutton.detach_deconstructor>Detach Deconstructor</hudbutton.detach_deconstructor>
+    <hudbutton.detach_engine>Detach Engine</hudbutton.detach_engine>
+    <hudbutton.detach_door>Detach Door</hudbutton.detach_door>
+    <hudbutton.detach_docking_port>Detach Docking Port</hudbutton.detach_docking_port>
+    <hudbutton.detach_docking_hatch>Detach Docking Hatch</hudbutton.detach_docking_hatch>
+    <hudbutton.detach_supplies_cabinet_first_remove_items>Detach Supplies Cabinet (remove items first)</hudbutton.detach_supplies_cabinet_first_remove_items>
+    <hudbutton.detach_medium_steel_cabinet_first_remove_items>Detach Cabinet (remove items first)</hudbutton.detach_medium_steel_cabinet_first_remove_items>
+    <hudbutton.detach_steel_cabinet_first_remove_items>Detach Cabinet (remove items first)</hudbutton.detach_steel_cabinet_first_remove_items>
+    <hudbutton.detach_secure_cabinet_first_remove_items>Detach Secure Cabinet (remove items first)</hudbutton.detach_secure_cabinet_first_remove_items>
+    <hudbutton.detach_railgun_rack_first_remove_items>Detach Railgun Shell Rack (remove items first)</hudbutton.detach_railgun_rack_first_remove_items>
+    <hudbutton.detach_coilgun_rack_first_remove_items>Detach Coilgun Ammunition Rack (remove items first)</hudbutton.detach_coilgun_rack_first_remove_items>
+    <hudbutton.detach_med_cabinet_first_remove_items>Detach Medical Cabinet (remove items first)</hudbutton.detach_med_cabinet_first_remove_items>
+    <hudbutton.detach_tox_cabinet_first_remove_items>Detach Tox Cabinet (remove items first)</hudbutton.detach_tox_cabinet_first_remove_items>
+    <hudbutton.detach_diving_locker_first_remove_items>Detach Diving Suit Locker (remove items first)</hudbutton.detach_diving_locker_first_remove_items>
+    <hudbutton.detach_oxygen_shelf_first_remove_items>Detach Oxygen Shelf (remove items first)</hudbutton.detach_oxygen_shelf_first_remove_items>
+    <hudbutton.detach_extinguisher_bracket_first_remove_items>Detach Bracket (remove items first)</hudbutton.detach_extinguisher_bracket_first_remove_items>
+    <hudbutton.detach_weapon_holder_first_remove_items>Detach Weapon Holder (remove items first)</hudbutton.detach_weapon_holder_first_remove_items>
+    <hudbutton.detach_terminal>Detach Navigation Terminal</hudbutton.detach_terminal>
+    <hudbutton.detach_monitor>Detach Monitor</hudbutton.detach_monitor>
+    <hudbutton.detach_transducer>Detach Transducer</hudbutton.detach_transducer>
+    <hudbutton.detach_junctionbox>Detach Junction Box</hudbutton.detach_junctionbox>
+    <hudbutton.detach_battery_first_remove_items>Detach Battery (remove items first)</hudbutton.detach_battery_first_remove_items>
+    <hudbutton.detach_capacitor>Detach Capacitor</hudbutton.detach_capacitor>
+    <hudbutton.detach_charging_dock_first_remove_items>Detach Charging Dock (remove items first)</hudbutton.detach_charging_dock_first_remove_items>
+    <hudbutton.detach_lamp>Detach Lamp</hudbutton.detach_lamp>
+    <hudbutton.detach_bunk>Detach Bunk</hudbutton.detach_bunk>
+</infotexts>
