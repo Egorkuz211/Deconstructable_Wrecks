@@ -14,7 +14,7 @@
 
 
     <Deconstruct time="30">
-      <Item identifier="fpgacircuit" />
+      <Item identifier="oldfpgacircuit" />
       <Item identifier="lead" />
       <Item identifier="lead" />
       <Item identifier="steel" />
@@ -66,7 +66,7 @@
 
     <Deconstruct time="30">
       <Item identifier="steel" />
-      <Item identifier="lead" />
+      <Item identifier="oldfpgacircuit" />
       <Item identifier="titaniumaluminiumalloy" />
     </Deconstruct>
 
@@ -96,9 +96,9 @@
       
     </Holdable>
 
-    <Deconstruct time="30">
+    <Deconstruct time="18">
       <Item identifier="steel" />
-      <Item identifier="fpgacircuit" />
+      <Item identifier="oldfpgacircuit" />
     </Deconstruct>
   </Item>
   <Item name="" identifier="railgunloaderwrecked_m" nameidentifier="railgunloader" tags="railgunequipment,railgunammosource" category="Wrecked" linkable="true" allowedlinks="railgun" scale="0.5" noninteractable="false">
@@ -126,10 +126,9 @@
       
     </Holdable>
 
-    <Deconstruct time="30">
+    <Deconstruct time="18">
       <Item identifier="steel" />
       <Item identifier="lead" />
-      <Item identifier="titanium" />
     </Deconstruct>
   </Item>
   <Item name="" identifier="railgunloadersingleverticalwrecked_m" nameidentifier="railgunloadersinglevertical" tags="railgunequipment,railgunammosource" category="Wrecked" linkable="true" allowedlinks="railgun" scale="0.5" noninteractable="false">
@@ -149,8 +148,7 @@
       
     </Holdable>
 
-    <Deconstruct time="30">
-      <Item identifier="steel" />
+    <Deconstruct time="13">
       <Item identifier="steel" />
     </Deconstruct>
   </Item>
@@ -171,8 +169,7 @@
       
     </Holdable>
 
-    <Deconstruct time="30">
-      <Item identifier="steel" />
+    <Deconstruct time="13">
       <Item identifier="steel" />
     </Deconstruct>
   </Item>
@@ -221,8 +218,9 @@
       
     </Holdable>
 
-    <Deconstruct time="30">
+    <Deconstruct time="18">
       <Item identifier="steel" />
+      <Item identifier="oldfpgacircuit" />
       <Item identifier="titaniumaluminiumalloy" />
     </Deconstruct>
   </Item>
@@ -255,9 +253,9 @@
       
     </Holdable>
 
-    <Deconstruct time="30">
+    <Deconstruct time="18">
       <Item identifier="steel" />
-      <Item identifier="steel" />
+      <Item identifier="lead" />
     </Deconstruct>
   </Item>
   <Item name="" identifier="oxygeneratorwrecked_m" nameidentifier="oxygenerator" tags="oxygengenerator" category="Wrecked" linkable="true" allowedlinks="vent" noninteractable="false">
@@ -276,7 +274,7 @@
     <Deconstruct time="30">
       <Item identifier="titanium" />
       <Item identifier="steel" />
-      <Item identifier="fpgacircuit" />
+      <Item identifier="oldfpgacircuit" />
     </Deconstruct>
   </Item>
   <Item name="" identifier="shuttleoxygeneratorwrecked_m" nameidentifier="shuttleoxygenerator" tags="oxygengenerator" category="Wrecked" linkable="true" allowedlinks="vent" noninteractable="false">
@@ -294,7 +292,7 @@
 
     <Deconstruct time="30">
       <Item identifier="titanium" />
-      <Item identifier="fpgacircuit" />
+      <Item identifier="oldfpgacircuit" />
     </Deconstruct>
   </Item>
   <Item name="" identifier="fabricatorwrecked_m" nameidentifier="fabricator" tags="fabricator" category="Wrecked" scale="0.5" noninteractable="false">
@@ -311,7 +309,7 @@
 
     <Deconstruct time="30">
       <Item identifier="steel" />
-      <Item identifier="fpgacircuit" />
+      <Item identifier="oldfpgacircuit" />
       <Item identifier="titaniumaluminiumalloy" />
     </Deconstruct>
   </Item>
@@ -329,7 +327,7 @@
 
     <Deconstruct time="30">
       <Item identifier="steel" />
-      <Item identifier="fpgacircuit" />
+      <Item identifier="oldfpgacircuit" />
       <Item identifier="titaniumaluminiumalloy" />
     </Deconstruct>
   </Item>
@@ -347,7 +345,7 @@
 
     <Deconstruct time="30">
       <Item identifier="steel" />
-      <Item identifier="fpgacircuit" />
+      <Item identifier="oldfpgacircuit" />
       <Item identifier="titaniumaluminiumalloy" />
     </Deconstruct>
   </Item>
@@ -365,7 +363,7 @@
 
     <Deconstruct time="40">
       <Item identifier="steel" />
-      <Item identifier="fpgacircuit" />
+      <Item identifier="oldfpgacircuit" />
       <Item identifier="steel" />
       <Item identifier="titaniumaluminiumalloy" />
     </Deconstruct>
@@ -382,9 +380,9 @@
       
     </Holdable>
 
-    <Deconstruct time="60">
+    <Deconstruct time="40">
       <Item identifier="steel" />
-      <Item identifier="fpgacircuit" />
+      <Item identifier="oldfpgacircuit" />
       <Item identifier="steel" />
       <Item identifier="lead" />
       <Item identifier="titaniumaluminiumalloy" />
@@ -404,7 +402,7 @@
 
     <Deconstruct time="20">
       <Item identifier="steel" />
-      <Item identifier="fpgacircuit" />
+      <Item identifier="oldfpgacircuit" />
     </Deconstruct>
   </Item>
 
@@ -433,7 +431,8 @@
 
     <Deconstruct time="40">
       <Item identifier="steel" />
-      <Item identifier="steel" />
+      <Item identifier="oldfpgacircuit" />
+      <Item identifier="oldbatterycell" />
       <Item identifier="titaniumaluminiumalloy" />
     </Deconstruct>
   </Item>
@@ -463,7 +462,7 @@
     <Deconstruct time="40">
       <Item identifier="steel" />
       <Item identifier="steel" />
-      <Item identifier="fpgacircuit" />
+      <Item identifier="oldfpgacircuit" />
       <Item identifier="titaniumaluminiumalloy" />
     </Deconstruct>
   </Item>
@@ -756,8 +755,8 @@
 
       <Deconstruct time="30">
         <Item identifier="steel" />
-        <Item identifier="fpgacircuit" />
-        <Item identifier="fpgacircuit" />
+        <Item identifier="oldfpgacircuit" />
+        <Item identifier="oldfpgacircuit" />
         <Item identifier="copper" />
       </Deconstruct>
   </Item>
@@ -774,8 +773,8 @@
 
     <Deconstruct time="30">
       <Item identifier="steel" />
-      <Item identifier="fpgacircuit" />
-      <Item identifier="fpgacircuit" />
+      <Item identifier="oldfpgacircuit" />
+      <Item identifier="oldfpgacircuit" />
       <Item identifier="copper" />
      </Deconstruct>
   </Item>
@@ -792,8 +791,8 @@
 
     <Deconstruct time="30">
       <Item identifier="steel" />
-      <Item identifier="fpgacircuit" />
-      <Item identifier="fpgacircuit" />
+      <Item identifier="oldfpgacircuit" />
+      <Item identifier="oldfpgacircuit" />
       <Item identifier="copper" />
     </Deconstruct>
   </Item>
@@ -810,7 +809,7 @@
 
     <Deconstruct time="30">
       <Item identifier="steel" />
-      <Item identifier="fpgacircuit" />
+      <Item identifier="oldfpgacircuit" />
     </Deconstruct>
   </Item>
   <Item name="" identifier="junctionboxwrecked_m" nameidentifier="junctionbox" tags="junctionbox" scale="0.75" category="Wrecked" maxstacksize="4">
@@ -826,7 +825,7 @@
 
     <Deconstruct time="30">
       <Item identifier="steel" />
-      <Item identifier="fpgacircuit" />
+      <Item identifier="oldfpgacircuit" />
     </Deconstruct>
   </Item>
   <Item name="" identifier="batterywrecked_m" nameidentifier="battery" Scale="0.5" category="Wrecked" maxstacksize="4">
@@ -846,7 +845,10 @@
 
     <Deconstruct time="30">
       <Item identifier="steel" />
-      <Item identifier="fpgacircuit" />
+      <Item identifier="oldfpgacircuit" />
+      <Item identifier="oldbatterycell" />
+      <Item identifier="oldbatterycell" />
+      <Item identifier="oldbatterycell" />
     </Deconstruct>
   </Item>
   <Item name="" identifier="shuttlebatterywrecked_m" nameidentifier="shuttlebattery" category="Wrecked" Scale="0.5" maxstacksize="6">
@@ -867,7 +869,9 @@
 
     <Deconstruct time="30">
       <Item identifier="steel" />
-      <Item identifier="fpgacircuit" />
+      <Item identifier="oldfpgacircuit" />
+      <Item identifier="oldbatterycell" />
+      <Item identifier="oldbatterycell" />
     </Deconstruct>
   </Item>
   <Item name="" identifier="supercapacitorwrecked_m" nameidentifier="supercapacitor" category="Wrecked" Scale="0.5" maxstacksize="4">
@@ -883,7 +887,8 @@
 
     <Deconstruct time="30">
       <Item identifier="steel" />
-      <Item identifier="fpgacircuit" />
+      <Item identifier="oldfpgacircuit" />
+      <Item identifier="oldbatterycell" />
     </Deconstruct>
   </Item>
   
@@ -904,7 +909,7 @@
 
     <Deconstruct time="30">
       <Item identifier="steel" />
-      <Item identifier="fpgacircuit" />
+      <Item identifier="oldfpgacircuit" />
     </Deconstruct>
   </Item>
   
@@ -932,7 +937,7 @@
 
     <Deconstruct time="30">
       <Item identifier="steel" />
-      <Item identifier="fpgacircuit" />
+      <Item identifier="oldfpgacircuit" />
       <Item identifier="lightcomponent" />
     </Deconstruct>
   </Item>
@@ -960,7 +965,7 @@
 
     <Deconstruct time="30">
       <Item identifier="steel" />
-      <Item identifier="fpgacircuit" />
+      <Item identifier="oldfpgacircuit" />
       <Item identifier="lightcomponent" />
     </Deconstruct>
   </Item>
@@ -988,7 +993,7 @@
 
     <Deconstruct time="30">
       <Item identifier="steel" />
-      <Item identifier="fpgacircuit" />
+      <Item identifier="oldfpgacircuit" />
       <Item identifier="lightcomponent" />
     </Deconstruct>
   </Item>
@@ -1016,7 +1021,7 @@
 
     <Deconstruct time="30">
       <Item identifier="steel" />
-      <Item identifier="fpgacircuit" />
+      <Item identifier="oldfpgacircuit" />
       <Item identifier="lightcomponent" />
     </Deconstruct>
   </Item>
@@ -1044,7 +1049,7 @@
 
     <Deconstruct time="30">
       <Item identifier="steel" />
-      <Item identifier="fpgacircuit" />
+      <Item identifier="oldfpgacircuit" />
       <Item identifier="lightcomponent" />
     </Deconstruct>
   </Item>
@@ -1072,7 +1077,7 @@
 
     <Deconstruct time="30">
       <Item identifier="steel" />
-      <Item identifier="fpgacircuit" />
+      <Item identifier="oldfpgacircuit" />
       <Item identifier="lightcomponent" />
     </Deconstruct>
   </Item>
@@ -1100,7 +1105,7 @@
 
     <Deconstruct time="30">
       <Item identifier="steel" />
-      <Item identifier="fpgacircuit" />
+      <Item identifier="oldfpgacircuit" />
       <Item identifier="lightcomponent" />
     </Deconstruct>
   </Item>
@@ -1128,7 +1133,7 @@
 
     <Deconstruct time="30">
       <Item identifier="steel" />
-      <Item identifier="fpgacircuit" />
+      <Item identifier="oldfpgacircuit" />
       <Item identifier="lightcomponent" />
     </Deconstruct>
   </Item>
@@ -1156,7 +1161,7 @@
 
     <Deconstruct time="30">
       <Item identifier="steel" />
-      <Item identifier="fpgacircuit" />
+      <Item identifier="oldfpgacircuit" />
       <Item identifier="lightcomponent" />
     </Deconstruct>
   </Item>
@@ -1184,7 +1189,7 @@
 
     <Deconstruct time="30">
       <Item identifier="steel" />
-      <Item identifier="fpgacircuit" />
+      <Item identifier="oldfpgacircuit" />
       <Item identifier="lightcomponent" />
     </Deconstruct>
   </Item>
@@ -1212,7 +1217,7 @@
 
     <Deconstruct time="30">
       <Item identifier="steel" />
-      <Item identifier="fpgacircuit" />
+      <Item identifier="oldfpgacircuit" />
       <Item identifier="lightcomponent" />
     </Deconstruct>
   </Item>
@@ -1245,10 +1250,8 @@
       
     </Holdable>
 
-    <Deconstruct time="30">
+    <Deconstruct time="15">
       <Item identifier="steel" />
-      <Item identifier="fpgacircuit" />
-      <Item identifier="lightcomponent" />
     </Deconstruct>
   </Item>
 </Items>

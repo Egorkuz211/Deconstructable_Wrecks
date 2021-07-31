@@ -1,9 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<contentpackage name="Decontructable Wrecks" path="Mods/Decontructable Wrecks/filelist.xml" corepackage="false" gameversion="0.14.6.0" steamworkshopid="2521970742" installtime="1625135352">
+<contentpackage name="Decontructable Wrecks" path="Mods/Decontructable Wrecks/filelist.xml" corepackage="false" gameversion="0.14.6.0" steamworkshopid="2521970742" installtime="1627382204">
   <Item file="Mods/Decontructable Wrecks/deconstruct_items.xml" />
   <Structure file="Mods/Decontructable Wrecks/deconstruct_walls.xml" />
   <Item file="Mods/Decontructable Wrecks/decontruct_thalamus.xml" />
   <Item file="Mods/Decontructable Wrecks/deconstruct_holdable_items.xml" />
   <Text file="Mods/Decontructable Wrecks/translations/English.xml" />
   <Text file="Mods/Decontructable Wrecks/translations/Polish.xml" />
+  <None file="Mods/Decontructable Wrecks/textures/wreckeditems.png" />
+  <Item file="Mods/Decontructable Wrecks/specialitems/wreck_items.xml" />
 </contentpackage>

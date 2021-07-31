@@ -42,6 +42,13 @@
     <entityname.chargingdock_originalwrecked>Stara stacja ładująca</entityname.chargingdock_originalwrecked>
     <entityname.lamp_originalwrecked>Stara lampa</entityname.lamp_originalwrecked>
     <entityname.bunk_originalwrecked>Stara prycza</entityname.bunk_originalwrecked>
+    <entityname.oldbatterycell>Stara mała bateria</entityname.oldbatterycell>
+    <entitydescription.oldbatterycell>Wygląda nie ciekawie.</entitydescription.oldbatterycell>
+    <entityname.oldfpgacircuit>Zepsuty układ FPGA</entityname.oldfpgacircuit>
+    <entitydescription.oldfpgacircuit>Może kiedyś działał...</entitydescription.oldfpgacircuit>
+    <entityname.oldsiren>Zepsuta syrena alarmowa</entityname.oldsiren>
+    <entitydescription.oldsiren>Po prostu nie działa...</entitydescription.oldsiren>
+
 
     <hudbutton.detach_reactor>Odłącz reaktor</hudbutton.detach_reactor>
     <hudbutton.detach_railgun>Odłącz Działo</hudbutton.detach_railgun>

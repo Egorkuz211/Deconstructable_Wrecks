@@ -42,6 +42,12 @@
     <entityname.chargingdock_originalwrecked>Old Charging Dock</entityname.chargingdock_originalwrecked>
     <entityname.lamp_originalwrecked>Old Lamp</entityname.lamp_originalwrecked>
     <entityname.bunk_originalwrecked>Old Bunk</entityname.bunk_originalwrecked>
+    <entityname.oldbatterycell>Old Battery Cell</entityname.oldbatterycell>
+    <entitydescription.oldbatterycell>It doesn't looks well.</entitydescription.oldbatterycell>
+    <entityname.oldfpgacircuit>Broken FPGA Circuit</entityname.oldfpgacircuit>
+    <entitydescription.oldfpgacircuit>Maybe it works before...</entitydescription.oldfpgacircuit>
+    <entityname.oldsiren>Broken Siren</entityname.oldsiren>
+    <entitydescription.oldsiren>Just not working...</entitydescription.oldsiren>
 
     <hudbutton.detach_reactor>Detach Reactor</hudbutton.detach_reactor>
     <hudbutton.detach_railgun>Detach Railgun</hudbutton.detach_railgun>

@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Items type="wrecked">
+    <Item name="" impactsoundtag="impact_metal_light" Scale="0.5" identifier="oldbatterycell" tags="smallitem,loadable" maxstacksize="8" type="Reactor" category="Wrecked" noninteractable="false" canbepicked="true" canbeselected="true" >
+        <!--trigger /-->
+        <Sprite texture="Mods/Decontructable Wrecks/textures/wreckeditems.png" sourcerect="104,87,35,24" origin="0.5,0.5" />
+        <PreferredContainer primary="outposttrashcan" minamount="1" maxamount="2" spawnprobability="0.3"/>
+        <PreferredContainer secondary="abandonedsupplycab,abandonedengcab" minamount="3" maxamount="4" spawnprobability="1"/>
+        <PreferredContainer secondary="engcabwrecked" minamount="4" maxamount="8" spawnprobability="0.5" />
+
+        <Body width="32" height="20" density="30" />
+        <Holdable slots="Any,RightHand,LeftHand" msg="ItemMsgPickUpSelect" />
+        <Deconstruct time="4">
+            <Item identifier="zinc" />
+        </Deconstruct>
+
+        <InventoryIcon texture="Mods/Decontructable Wrecks/textures/wreckeditems.png" sourcerect="104,87,35,24" origin="0.5,0.5" />
+      </Item>
+      <Item name="" impactsoundtag="impact_metal_light" Scale="0.5" identifier="oldbatterycell1" nameidentifier="oldbatterycell" tags="smallitem,loadable" maxstacksize="8" category="Wrecked" noninteractable="false" canbepicked="true" canbeselected="true" >
+        <!--trigger /-->
+        <Sprite texture="Mods/Decontructable Wrecks/textures/wreckeditems.png" sourcerect="105,113,35,24" origin="0.5,0.5" />
+        <PreferredContainer primary="abandonedsupplycab,abandonedengcab" minamount="1" maxamount="2" spawnprobability="0.4"/>
+        <PreferredContainer secondary="engcabwrecked" minamount="1" maxamount="4" spawnprobability="0.5" />
+
+        <Body width="32" height="20" density="30" />
+        <Holdable slots="Any,RightHand,LeftHand" msg="ItemMsgPickUpSelect" />
+        <Deconstruct time="4">
+            <Item identifier="zinc" />
+            <Item identifier="scrap" />
+        </Deconstruct>
+
+        <InventoryIcon texture="Mods/Decontructable Wrecks/textures/wreckeditems.png" sourcerect="104,113,35,24" origin="0.5,0.5" />
+      </Item>
+      <Item name="" impactsoundtag="impact_metal_light" Scale="0.5" identifier="oldfgpacircuit" nameidentifier="oldfpgacircuit" tags="smallitem" maxstacksize="8" category="Wrecked" noninteractable="false" canbepicked="true" canbeselected="true" >
+        <!--trigger /-->
+        <Sprite texture="Mods/Decontructable Wrecks/textures/wreckeditems.png" sourcerect="45,1,38,38" origin="0.5,0.5" />
+
+        <Body width="32" height="20" density="30" />
+        <Holdable slots="Any,RightHand,LeftHand" msg="ItemMsgPickUpSelect" />
+        <Deconstruct time="4">
+            <Item identifier="copper" />
+            <Item identifier="silicon" />
+        </Deconstruct>
+
+        <InventoryIcon texture="Mods/Decontructable Wrecks/textures/wreckeditems.png" sourcerect="45,1,38,38" origin="0.5,0.5" />
+      </Item>
+      <Item name="" impactsoundtag="impact_metal_light" Scale="0.5" identifier="oldsiren" nameidentifier="oldsiren" tags="smallitem" maxstacksize="8" category="Wrecked" noninteractable="false" canbepicked="true" canbeselected="true" >
+        <!--trigger /-->
+        <Sprite texture="Mods/Decontructable Wrecks/textures/wreckeditems.png" sourcerect="0,0,40,50" origin="0.5,0.5" />
+
+        <Body width="32" height="20" density="30" />
+        <Holdable selectkey="Select" pickkey="Action" slots="RightHand,LeftHand,Any" msg="ItemMsgDetachWrench" PickingTime="5.0" aimpos="85,-10" handle1="0,0" attachable="true" aimable="true" >
+          <RequiredItem items="wrench" type="Equipped" />
+        </Holdable>
+        <Deconstruct time="4">
+            <Item identifier="oldfpgacircuit" />
+            <Item identifier="silicon" />
+        </Deconstruct>
+        <ConnectionPanel selectkey="Action" canbeselected="true" msg="ItemMsgRewireScrewdriver" hudpriority="10">
+          <GuiFrame relativesize="0.2,0.32" minsize="400,350" maxsize="480,420" anchor="Center" style="ConnectionPanel" />
+          <RequiredItem items="screwdriver" type="Equipped" />
+          <input name="toggle" displayname="connection.togglestate" />
+          <input name="set_state" displayname="connection.setstate" />
+        </ConnectionPanel>
+        <InventoryIcon texture="Mods/Decontructable Wrecks/textures/wreckeditems.png" sourcerect="0,0,40,50" origin="0.5,0.5" />
+      </Item>
+      <Item name="" impactsoundtag="impact_metal_light" Scale="0.5" identifier="oldemergency_light0" nameidentifier="emergencylight" tags="smallitem" maxstacksize="8" category="Wrecked" noninteractable="false" canbepicked="true" canbeselected="true" >
+        <!--trigger /-->
+        <Sprite texture="Mods/Decontructable Wrecks/textures/wreckeditems.png" sourcerect="50,143,90,19" origin="0.5,0.5" />
+
+        <Body width="32" height="20" density="30" />
+        <Holdable selectkey="Select" pickkey="Action" slots="RightHand,LeftHand,Any" msg="ItemMsgDetachWrench" PickingTime="5.0" aimpos="85,-10" handle1="0,0" attachable="true" aimable="true" >
+          <RequiredItem items="wrench" type="Equipped" />
+        </Holdable>
+        <Deconstruct time="4">
+            <Item identifier="oldfpgacircuit" />
+        </Deconstruct>
+        <ConnectionPanel selectkey="Action" canbeselected="true" msg="ItemMsgRewireScrewdriver" hudpriority="10">
+          <GuiFrame relativesize="0.2,0.32" minsize="400,350" maxsize="480,420" anchor="Center" style="ConnectionPanel" />
+          <RequiredItem items="screwdriver" type="Equipped" />
+          <input name="toggle" displayname="connection.togglestate" />
+          <input name="set_state" displayname="connection.setstate" />
+        </ConnectionPanel>
+        <InventoryIcon texture="Mods/Decontructable Wrecks/textures/wreckeditems.png" sourcerect="50,143,90,19" origin="0.5,0.5" />
+      </Item>
+      
+      <Item name="" impactsoundtag="impact_metal_light" Scale="0.5" identifier="alarmbuzzerwrecked1" nameidentifier="alarmbuzzer" tags="smallitem" maxstacksize="8" category="Wrecked" noninteractable="false" canbepicked="true" canbeselected="true" >
+        <!--trigger /-->
+        <Sprite texture="Mods/Decontructable Wrecks/textures/wreckeditems.png" sourcerect="1,68,41,58" origin="0.5,0.5" />
+
+        <Body radius="20" density="20" />
+        <Holdable selectkey="Select" pickkey="Action" slots="RightHand,LeftHand,Any" msg="ItemMsgDetachWrench" PickingTime="5.0" aimpos="85,-10" handle1="0,0" attachable="true" aimable="true" >
+          <RequiredItem items="wrench" type="Equipped" />
+        </Holdable>
+        <Deconstruct time="4">
+            <Item identifier="oldfpgacircuit" />
+            <Item identifier="plastic" />
+        </Deconstruct>
+        <ConnectionPanel selectkey="Action" canbeselected="true" msg="ItemMsgRewireScrewdriver" hudpriority="10">
+          <GuiFrame relativesize="0.2,0.32" minsize="400,350" maxsize="480,420" anchor="Center" style="ConnectionPanel" />
+          <RequiredItem items="screwdriver" type="Equipped" />
+          <input name="toggle" displayname="connection.togglestate" />
+          <input name="set_state" displayname="connection.setstate" />
+        </ConnectionPanel>
+        <InventoryIcon texture="Mods/Decontructable Wrecks/textures/wreckeditems.png" sourcerect="1,68,41,58" origin="0.5,0.5" />
+    </Item>
+    <Item name="" impactsoundtag="impact_metal_light" Scale="0.5" identifier="oldterminalwrecked1" nameidentifier="terminal" tags="smallitem" maxstacksize="8" category="Wrecked" noninteractable="false" canbepicked="true" canbeselected="true" >
+      <!--trigger /-->
+      <Sprite texture="Mods/Decontructable Wrecks/textures/wreckeditems.png" sourcerect="149,1,159,151" origin="0.5,0.5" />
+
+      <Body radius="20" density="20" />
+      <Holdable selectkey="Select" pickkey="Action" slots="RightHand,LeftHand,Any" msg="ItemMsgDetachWrench" PickingTime="5.0" aimpos="85,-10" handle1="0,0" attachable="true" aimable="true" >
+        <RequiredItem items="wrench" type="Equipped" />
+      </Holdable>
+      <Deconstruct time="7">
+          <Item identifier="oldfpgacircuit" />
+          <Item identifier="plastic" />
+          <Item identifier="wire" />
+      </Deconstruct>
+      <Terminal canbeselected="true" msg="ItemMsgInteractSelect" AllowInGameEditing="false">
+        <GuiFrame relativesize="0.35,0.35" anchor="Center" style="ItemUI" />
+      </Terminal>
+      <InventoryIcon texture="Mods/Decontructable Wrecks/textures/wreckeditems.png" sourcerect="149,1,159,151" origin="0.5,0.5" />
+  </Item>
+  <Item name="" identifier="handheldterminalwrecked1" nameidentifier="handheldterminal" category="Electrical" Tags="smallitem,logic" cargocontaineridentifier="metalcrate" scale="0.25" impactsoundtag="impact_metal_light" isshootable="true">
+    <InventoryIcon texture="Mods/Decontructable Wrecks/textures/wreckeditems.png" sourcerect="2,269,66,91" origin="0.5,0.5" />
+    <Sprite texture="Mods/Decontructable Wrecks/textures/wreckeditems.png" sourcerect="2,269,66,91" depth="0.55" origin="0.5,0.5" />
+    <Body width="60" height="90" density="8" />
+    <Holdable slots="Any,RightHand,LeftHand" holdangle="30" handle1="-10,0" msg="ItemMsgPickUpSelect" />
+    <Terminal canbeselected="true" msg="ItemMsgInteractSelect" AllowInGameEditing="false" drawhudwhenequipped="true">
+      <GuiFrame relativesize="0.35,0.35" anchor="Center" style="ItemUI" />
+    </Terminal>
+    <Deconstruct time="5">
+      <Item identifier="oldfpgacircuit" />
+      <Item identifier="plastic" />
+    </Deconstruct>
+  </Item>
+  <Item name="" identifier="oldmotiondetector1" nameidentifier="motiondetector" category="Electrical" Tags="smallitem,sensor" maxstacksize="8" cargocontaineridentifier="metalcrate" description="" scale="0.5" impactsoundtag="impact_metal_light" isshootable="true">
+    <PreferredContainer primary="wreckreactorcab,wreckstoragecab,abandonedreactorcab" minamount="1" maxamount="1" spawnprobability="0.1"/>
+    <Deconstruct time="8">
+      <Item identifier="oldfpgacircuit" />
+      <Item identifier="silicon" />
+    </Deconstruct>
+    <InventoryIcon texture="Mods/Decontructable Wrecks/textures/wreckeditems.png" sourcerect="101,37,47,44" origin="0.5,0.5" />
+    <Sprite texture="Mods/Decontructable Wrecks/textures/wreckeditems.png" depth="0.8" sourcerect="101,37,47,44" origin="0.5,0.5" />
+    <Body width="42" height="36" density="30" />
+    <Holdable selectkey="Select" pickkey="Use" slots="Any,RightHand,LeftHand" msg="ItemMsgDetachWrench" PickingTime="5.0" aimpos="65,-10" handle1="0,0" attachable="true" aimable="true">
+      <RequiredItem items="wrench" type="Equipped" />
+    </Holdable>
+    <ConnectionPanel selectkey="Action" canbeselected="true" msg="ItemMsgRewireScrewdriver" hudpriority="10">
+      <GuiFrame relativesize="0.2,0.32" minsize="400,350" maxsize="480,420" anchor="Center" style="ConnectionPanel" />
+      <RequiredItem items="screwdriver" type="Equipped" />
+      <output name="state_out" displayname="connection.stateout" fallbackdisplayname="connection.signalout" />
+    </ConnectionPanel>
+  </Item>
+  <Item name="" identifier="oldwaterdetector1" nameidentifier="waterdetector" category="Electrical" Tags="smallitem,sensor" maxstacksize="8" cargocontaineridentifier="metalcrate" description="" scale="0.5" impactsoundtag="impact_metal_light" isshootable="true">
+    <PreferredContainer primary="wreckreactorcab,wreckstoragecab,abandonedreactorcab" minamount="0" maxamount="1" spawnprobability="0.1"/>
+    <Deconstruct time="7">
+      <Item identifier="oldfpgacircuit" />
+      <Item identifier="silicon" />
+    </Deconstruct>
+    <InventoryIcon texture="Mods/Decontructable Wrecks/textures/wreckeditems.png" sourcerect="90,2,41,26" origin="0.5,0.5" />
+    <Sprite texture="Mods/Decontructable Wrecks/textures/wreckeditems.png" depth="0.8" sourcerect="90,2,41,26" origin="0.5,0.5" />
+    <Body width="40" height="37" density="30" />
+    <Holdable selectkey="Select" pickkey="Use" slots="Any,RightHand,LeftHand" msg="ItemMsgDetachWrench" PickingTime="5.0" aimpos="65,-10" handle1="0,0" attachable="true" aimable="true">
+      <RequiredItem items="wrench" type="Equipped" />
+    </Holdable>
+    <ConnectionPanel selectkey="Action" canbeselected="true" msg="ItemMsgRewireScrewdriver" hudpriority="10">
+      <GuiFrame relativesize="0.2,0.32" minsize="400,350" maxsize="480,420" anchor="Center" style="ConnectionPanel" />
+      <RequiredItem items="screwdriver" type="Equipped" />
+      <output name="signal_out" displayname="connection.signalout" />
+      <output name="water_%" displayname="connection.waterpercentageout" />
+    </ConnectionPanel>
+  </Item>
+  <Item name="" identifier="oldsmokedetector1" nameidentifier="smokedetector" category="Electrical" Tags="smallitem,sensor" maxstacksize="8" cargocontaineridentifier="metalcrate" description="" scale="0.5" impactsoundtag="impact_metal_light" isshootable="true">
+    <PreferredContainer primary="wreckreactorcab,wreckstoragecab,abandonedreactorcab" minamount="0" maxamount="1" spawnprobability="0.06"/>
+    <Deconstruct time="7">
+      <Item identifier="oldfpgacircuit" />
+      <Item identifier="silicon" />
+    </Deconstruct>
+    <InventoryIcon texture="Mods/Decontructable Wrecks/textures/wreckeditems.png" sourcerect="1,138,47,29" origin="0.5,0.5" />
+    <Sprite texture="Mods/Decontructable Wrecks/textures/wreckeditems.png" depth="0.8" sourcerect="1,138,47,29" origin="0.5,0.5" />
+    <Body width="44" height="30" density="30" />
+    <Holdable selectkey="Select" pickkey="Use" slots="Any,RightHand,LeftHand" msg="ItemMsgDetachWrench" PickingTime="5.0" aimpos="65,-10" handle1="0,0" attachable="true" aimable="true">
+      <RequiredItem items="wrench" type="Equipped" />
+    </Holdable>
+    <ConnectionPanel selectkey="Action" canbeselected="true" msg="ItemMsgRewireScrewdriver" hudpriority="10">
+      <GuiFrame relativesize="0.2,0.32" minsize="400,350" maxsize="480,420" anchor="Center" style="ConnectionPanel" />
+      <RequiredItem identifier="screwdriver" type="Equipped" />
+      <output name="signal_out" displayname="connection.signalout" />
+    </ConnectionPanel>
+  </Item>
+  <Item name="" identifier="oldoxygendetector1" nameidentifier="oxygendetector" category="Electrical" Tags="smallitem,sensor" maxstacksize="8" cargocontaineridentifier="metalcrate" description="" scale="0.5" impactsoundtag="impact_metal_light" isshootable="true">
+    <PreferredContainer primary="wreckreactorcab,wreckstoragecab,abandonedreactorcab" minamount="0" maxamount="1" spawnprobability="0.06"/>
+    <Deconstruct time="7">
+      <Item identifier="oldfpgacircuit" />
+      <Item identifier="silicon" />
+    </Deconstruct>
+    <InventoryIcon texture="Mods/Decontructable Wrecks/textures/wreckeditems.png" sourcerect="50,57,45,29" origin="0.5,0.5" />
+    <Sprite texture="Mods/Decontructable Wrecks/textures/wreckeditems.png" depth="0.8" sourcerect="50,57,45,29" origin="0.5,0.5" />
+    <Body width="44" height="30" density="30" />
+    <Holdable selectkey="Select" pickkey="Use" slots="Any,RightHand,LeftHand" msg="ItemMsgDetachWrench" PickingTime="5.0" aimpos="65,-10" handle1="0,0" attachable="true" aimable="true">
+      <RequiredItem items="wrench" type="Equipped" />
+    </Holdable>
+    <ConnectionPanel selectkey="Action" canbeselected="true" msg="ItemMsgRewireScrewdriver" hudpriority="10">
+      <GuiFrame relativesize="0.2,0.32" minsize="400,350" maxsize="480,420" anchor="Center" style="ConnectionPanel" />
+      <RequiredItem items="screwdriver" type="Equipped" />
+      <output name="signal_out" displayname="connection.signalout" />
+    </ConnectionPanel>
+  </Item>
+  <Item name="" identifier="oldcamera1" nameidentifier="camera" category="Electrical" Tags="smallitem,camera" focusonselected="true" offsetonselected="500" cargocontaineridentifier="metalcrate" description="" Scale="0.5">
+    <PreferredContainer primary="wreckreactorcab,wreckstoragecab,abandonedreactorcab" minamount="0" maxamount="1" spawnprobability="0.06"/>
+    <InventoryIcon texture="Mods/Decontructable Wrecks/textures/wreckeditems.png" sourcerect="46,89,56,17" origin="0.5,0.5" />
+    <Sprite texture="Mods/Decontructable Wrecks/textures/wreckeditems.png" depth="0.8" sourcerect="46,89,56,17" origin="0.5,0.5" />
+    <ConnectionPanel selectkey="Action" canbeselected="true" msg="ItemMsgRewireScrewdriver" hudpriority="10">
+      <GuiFrame relativesize="0.2,0.32" minsize="400,350" maxsize="480,420" anchor="Center" style="ConnectionPanel" />
+      <RequiredItem items="screwdriver" type="Equipped" />
+      <input name="control_in" displayname="connection.controlin" />
+    </ConnectionPanel>
+    <Body width="44" height="30" density="30" />
+    <Holdable selectkey="Select" pickkey="Use" slots="Any,RightHand,LeftHand" msg="ItemMsgDetachWrench" PickingTime="5.0" aimpos="65,-10" handle1="0,0" attachable="true" aimable="true">
+      <RequiredItem items="wrench" type="Equipped" />
+    </Holdable>
+    <Deconstruct time="7">
+      <Item identifier="oldfpgacircuit" />
+      <Item identifier="silicon" />
+    </Deconstruct>
+  </Item>
+</Items>
