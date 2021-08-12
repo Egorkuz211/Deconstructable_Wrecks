@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<infotexts language="German" nowhitespace="false" translatedname="Deutsch">
+    <entityname.reactor_originalwrecked>Alter Kernreaktor</entityname.reactor_originalwrecked>
+    <entityname.railgun_originalwrecked>Alte Railgun</entityname.railgun_originalwrecked>
+    <entityname.periscope_originalwrecked>Altes Periskop</entityname.periscope_originalwrecked>
+    <entityname.railgunloader_originalwrecked>Alter Railgun-Lader</entityname.railgunloader_originalwrecked>
+    <entityname.railgunloadersinglevertical_originalwrecked>Alter Railgun-Lader</entityname.railgunloadersinglevertical_originalwrecked>
+    <entityname.railgunloadersinglehorizontal_originalwrecked>Alter Railgun-Lader</entityname.railgunloadersinglehorizontal_originalwrecked>
+    <entityname.coilgun_originalwrecked>Alte Coilgun</entityname.coilgun_originalwrecked>
+    <entityname.coilgunloader_originalwrecked>Alter Coilgun-Lader</entityname.coilgunloader_originalwrecked>
+    <entityname.oxygenerator_originalwrecked>Alter Sauerstoffgenerator</entityname.oxygenerator_originalwrecked>
+    <entityname.shuttleoxygenerator_originalwrecked>Alter Sauerstoffgenerator von Shuttle</entityname.shuttleoxygenerator_originalwrecked>
+    <entityname.fabricator_originalwrecked>Alter Fabrikant</entityname.fabricator_originalwrecked>
+    <entityname.medicalfabricator_originalwrecked>Alter medizinischer Hersteller</entityname.medicalfabricator_originalwrecked>
+    <entityname.deconstructor_originalwrecked>Alter Dekonstruktor</entityname.deconstructor_originalwrecked>
+    <entityname.engine_originalwrecked>Alter Motor</entityname.engine_originalwrecked>
+    <entityname.largeengine_originalwrecked>Alter großer Motor</entityname.largeengine_originalwrecked>
+    <entityname.shuttleengine_originalwrecked>Alter Motor von Shuttle</entityname.shuttleengine_originalwrecked>
+    <entityname.dockingport_originalwrecked>Alter Docking-Port</entityname.dockingport_originalwrecked>
+    <entityname.dockinghatch_originalwrecked>Alte Andockluke</entityname.dockinghatch_originalwrecked>
+    <entityname.suppliescabinet_originalwrecked>Schrank für alte Vorräte</entityname.suppliescabinet_originalwrecked>
+    <entityname.mediumsteelcabinet_originalwrecked>Alter mittlerer Stahlschrank</entityname.mediumsteelcabinet_originalwrecked>
+    <entityname.mediumwindowedsteelcabinet_originalwrecked>Alter mittlerer Fensterschrank aus Stahl</entityname.mediumwindowedsteelcabinet_originalwrecked>
+    <entityname.steelcabinet_originalwrecked>Alter Stahlschrank</entityname.steelcabinet_originalwrecked>
+    <entityname.securesteelcabinet_originalwrecked>Alter sicherer Stahlschrank</entityname.securesteelcabinet_originalwrecked>
+    <entityname.railgunshellrack_originalwrecked>Old Railgun Shell Rack</entityname.railgunshellrack_originalwrecked>
+    <entityname.coilgunammoshelf_originalwrecked>Altes Coilgun-Gestell</entityname.coilgunammoshelf_originalwrecked>
+    <entityname.medcabinet_originalwrecked>Altes medizinisches Kabinett</entityname.medcabinet_originalwrecked>
+    <entityname.toxcabinet_originalwrecked>Alter Schrank für Giftstoffe</entityname.toxcabinet_originalwrecked>
+    <entityname.divingsuitlocker_originalwrecked>Alter Tauchanzug-Schließfach</entityname.divingsuitlocker_originalwrecked>
+    <entityname.oxygentankshelf_originalwrecked>Altes Sauerstofftankregal</entityname.oxygentankshelf_originalwrecked>
+    <entityname.extinguisherbracket_originalwrecked>Alte Feuerlöscherhalterung</entityname.extinguisherbracket_originalwrecked>
+    <entityname.weaponholder_originalwrecked>Alte Waffenhalterung</entityname.weaponholder_originalwrecked>
+    <entityname.navterminal_originalwrecked>Altes Navigationsterminal</entityname.navterminal_originalwrecked>
+    <entityname.shuttlenavterminal_originalwrecked>Altes Navigationsterminal von Shuttle</entityname.shuttlenavterminal_originalwrecked>
+    <entityname.statusmonitor_originalwrecked>Alter Statusmonitor</entityname.statusmonitor_originalwrecked>
+    <entityname.sonartransducer_originalwrecked>Alter Sonar-Geber</entityname.sonartransducer_originalwrecked>
+    <entityname.junctionbox_originalwrecked>Alte Anschlussdose</entityname.junctionbox_originalwrecked>
+    <entityname.battery_originalwrecked>Alte Batterie</entityname.battery_originalwrecked>
+    <entityname.shuttlebattery_originalwrecked>Alte Batterie von Shuttle</entityname.shuttlebattery_originalwrecked>
+    <entityname.supercapacitor_originalwrecked>Alter Superkondensator</entityname.supercapacitor_originalwrecked>
+    <entityname.chargingdock_originalwrecked>Alte Ladestation</entityname.chargingdock_originalwrecked>
+    <entityname.lamp_originalwrecked>Alte Lampe</entityname.lamp_originalwrecked>
+    <entityname.bunk_originalwrecked>Alte Koje</entityname.bunk_originalwrecked>
+    <entityname.oldbatterycell>Alte Batteriezelle</entityname.oldbatterycell>
+    <entitydescription.oldbatterycell>Es sieht nicht gut aus.</entitydescription.oldbatterycell>
+    <entityname.oldfpgacircuit>Defekter FPGA-Schaltkreis</entityname.oldfpgacircuit>
+    <entitydescription.oldfpgacircuit>Vielleicht funktioniert es vorher...</entitydescription.oldfpgacircuit>
+    <entityname.oldsiren>Defekte Sirene</entityname.oldsiren>
+    <entitydescription.oldsiren>Funktioniert einfach nicht...</entitydescription.oldsiren>
+    <hudbutton.detach_reactor>Reaktor lösen</hudbutton.detach_reactor>
+    <hudbutton.detach_railgun>Railgun lösen</hudbutton.detach_railgun>
+    <hudbutton.detach_periscope>Periskop abnehmen</hudbutton.detach_periscope>
+    <hudbutton.detach_loader>Detach Loader (Gegenstände zuerst entfernen)</hudbutton.detach_loader>
+    <hudbutton.detach_coilgun>Coilgun lösen</hudbutton.detach_coilgun>
+    <hudbutton.detach_oxygen_generator>Sauerstoffgenerator abnehmen</hudbutton.detach_oxygen_generator>
+    <hudbutton.detach_vent>Entlüftung abnehmen</hudbutton.detach_vent>
+    <hudbutton.detach_ladder>Leiter lösen</hudbutton.detach_ladder>
+    <hudbutton.detach_fabricator>Hersteller ablösen</hudbutton.detach_fabricator>
+    <hudbutton.detach_med_fabricator>Medizinischen Hersteller ablösen</hudbutton.detach_med_fabricator>
+    <hudbutton.detach_deconstructor>Dekonstruktor lösen</hudbutton.detach_deconstructor>
+    <hudbutton.detach_engine>Motor lösen</hudbutton.detach_engine>
+    <hudbutton.detach_door>Tür lösen</hudbutton.detach_door>
+    <hudbutton.detach_docking_port>Docking-Port trennen</hudbutton.detach_docking_port>
+    <hudbutton.detach_docking_hatch>Andockluke abnehmen</hudbutton.detach_docking_hatch>
+    <hudbutton.detach_supplies_cabinet_first_remove_items>Zubehörschrank abnehmen (vorher Gegenstände entfernen)</hudbutton.detach_supplies_cabinet_first_remove_items>
+    <hudbutton.detach_medium_steel_cabinet_first_remove_items>Schrank abnehmen (zuerst Gegenstände entfernen)</hudbutton.detach_medium_steel_cabinet_first_remove_items>
+    <hudbutton.detach_steel_cabinet_first_remove_items>Schrank abnehmen (zuerst Gegenstände entfernen)</hudbutton.detach_steel_cabinet_first_remove_items>
+    <hudbutton.detach_secure_cabinet_first_remove_items>Sicheren Schrank abnehmen (Vorher Gegenstände entfernen)</hudbutton.detach_secure_cabinet_first_remove_items>
+    <hudbutton.detach_railgun_rack_first_remove_items>Railgun Shell Rack abnehmen (Gegenstände zuerst entfernen)</hudbutton.detach_railgun_rack_first_remove_items>
+    <hudbutton.detach_coilgun_rack_first_remove_items>Coilgun-Munitionsständer abnehmen (Gegenstände zuerst entfernen)</hudbutton.detach_coilgun_rack_first_remove_items>
+    <hudbutton.detach_med_cabinet_first_remove_items>Medizinisches Kabinett abnehmen (Gegenstände zuerst entfernen)</hudbutton.detach_med_cabinet_first_remove_items>
+    <hudbutton.detach_tox_cabinet_first_remove_items>Tox-Schrank abnehmen (Gegenstände zuerst entfernen)</hudbutton.detach_tox_cabinet_first_remove_items>
+    <hudbutton.detach_diving_locker_first_remove_items>Tauchanzug-Schließfach abnehmen (Gegenstände zuerst entfernen)</hudbutton.detach_diving_locker_first_remove_items>
+    <hudbutton.detach_oxygen_shelf_first_remove_items>Oxygen Shelf abnehmen (Gegenstände zuerst entfernen)</hudbutton.detach_oxygen_shelf_first_remove_items>
+    <hudbutton.detach_extinguisher_bracket_first_remove_items>Halterung abnehmen (Elemente zuerst entfernen)</hudbutton.detach_extinguisher_bracket_first_remove_items>
+    <hudbutton.detach_weapon_holder_first_remove_items>Waffenhalter abnehmen (zuerst Gegenstände entfernen)</hudbutton.detach_weapon_holder_first_remove_items>
+    <hudbutton.detach_terminal>Navigationsterminal abnehmen</hudbutton.detach_terminal>
+    <hudbutton.detach_monitor>Monitor abtrennen</hudbutton.detach_monitor>
+    <hudbutton.detach_transducer>Wandler abnehmen</hudbutton.detach_transducer>
+    <hudbutton.detach_junctionbox>Anschlussdose lösen</hudbutton.detach_junctionbox>
+    <hudbutton.detach_battery_first_remove_items>Batterie abnehmen (zuerst Gegenstände entfernen)</hudbutton.detach_battery_first_remove_items>
+    <hudbutton.detach_capacitor>Kondensator abnehmen</hudbutton.detach_capacitor>
+    <hudbutton.detach_charging_dock_first_remove_items>Ladestation abnehmen (zuerst Gegenstände entfernen)</hudbutton.detach_charging_dock_first_remove_items>
+    <hudbutton.detach_lamp>Lampe abnehmen</hudbutton.detach_lamp>
+    <hudbutton.detach_bunk>Schlafkoje lösen</hudbutton.detach_bunk>
+    <entityname.thalamuscup>Thalamus-Pokal</entityname.thalamuscup>
+    <entitydescription.thalamuscup>Für diejenigen, die den Thalamus töten</entitydescription.thalamuscup>
+    <entityname.wreckedmotor0>Rostiger Motor</entityname.wreckedmotor0>
+    <entitydescription.wreckedmotor0>Wird normalerweise in Wracks gefunden.</entitydescription.wreckedmotor0>
+    <entityname.wreckedgear0>Alte Ausrüstung</entityname.wreckedgear0>
+    <entitydescription.wreckedgear0>Sieht so schlimm aus wie man sieht. Es zu dekonstruieren ist das Beste, was Sie tun können.</entitydescription.wreckedgear0>
+</infotexts>

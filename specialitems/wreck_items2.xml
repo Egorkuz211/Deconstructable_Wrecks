@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Items type="wrecked" >
+    <Item name="" identifier="wreckedmotor0" impactsoundtag="impact_metal_light" Scale="0.1" tags="smallitem" maxstacksize="4" category="Wrecked" noninteractable="false" canbepicked="true" canbeselected="true" >
+        <Sprite texture="Mods/Decontructable Wrecks/textures/motor0.png" origin="0.5,0.5" sourcerect="1,1,500,304" />
+        <InventoryIcon texture="Mods/Decontructable Wrecks/textures/motor0.png" origin="0.5, 0.5" sourcerect="1,1,500,304" />
+        <PreferredContainer primary="engcabwrecked" minamount="1" maxamount="4" spawnprobability="0.5" />
+        <Body width="32" height="20" density="30" />
+        <Holdable slots="Any,RightHand,LeftHand" msg="ItemMsgPickUpSelect" />
+        <Deconstruct time="8">
+            <Item identifier="oldfpgacircuit" />
+            <Item identifier="wreckedgear0" />
+        </Deconstruct>
+    </Item>
+    <Item name="" identifier="wreckedgear0" impactsoundtag="impact_metal_light" Scale="0.3" tags="smallitem" maxstacksize="8" category="Wrecked" noninteractable="false" canbepicked="true" canbeselected="true" >
+        <Sprite texture="Mods/Decontructable Wrecks/textures/gear0.png" origin="0.5,0.5" sourcerect="1,1,100,100" />
+        <InventoryIcon texture="Mods/Decontructable Wrecks/textures/gear0.png" origin="0.5, 0.5" sourcerect="1,1,100,100" />
+        <PreferredContainer primary="engcabwrecked" minamount="1" maxamount="4" spawnprobability="0.5" />
+        <Body radius="30" density="20" friction="0.95" />
+        <Holdable slots="Any,RightHand,LeftHand" msg="ItemMsgPickUpSelect" />
+        <Deconstruct time="1">
+            <Item identifier="iron" />
+        </Deconstruct>
+    </Item>
+</Items>

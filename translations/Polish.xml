@@ -86,4 +86,12 @@
     <hudbutton.detach_charging_dock_first_remove_items>Odłącz Stację Ładującą (usuń z niej baterie)</hudbutton.detach_charging_dock_first_remove_items>
     <hudbutton.detach_lamp>Odłącz Lampę</hudbutton.detach_lamp>
     <hudbutton.detach_bunk>Odłącz Pryczę</hudbutton.detach_bunk>
+
+    <entityname.thalamuscup>Puchar Thalamusa</entityname.thalamuscup>
+    <entitydescription.thalamuscup>Tylko dla tych, którzy go zniszczyli</entitydescription.thalamuscup>
+
+    <entityname.wreckedmotor0>Zardzewiały Silnik</entityname.wreckedmotor0>
+    <entitydescription.wreckedmotor0>Zwykle znajdowany we wrakach.</entitydescription.wreckedmotor0>
+    <entityname.wreckedgear0>Stare koło zębate</entityname.wreckedgear0>
+    <entitydescription.wreckedgear0>Nie nadaje się już do niczego.</entitydescription.wreckedgear0>
 </infotexts>

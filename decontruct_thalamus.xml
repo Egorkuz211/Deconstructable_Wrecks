@@ -18,10 +18,7 @@
         <SpawnItem identifiers="adrenaline" spawnposition="This"/>
         <SpawnItem identifiers="adrenaline" spawnposition="This"/>
         <SpawnItem identifiers="adrenaline" spawnposition="This"/>
-        <SpawnItem identifiers="adrenaline" spawnposition="This"/>
-        <SpawnItem identifiers="adrenaline" spawnposition="This"/>
-        <SpawnItem identifiers="adrenaline" spawnposition="This"/>
-        <SpawnItem identifiers="adrenaline" spawnposition="This"/>
+        <SpawnItem identifiers="thalamuscup" spawnposition="This"/>
         <Remove />
       </StatusEffect>
       <StatusEffect type="OnFire" target="This" Condition="-5.0"/>

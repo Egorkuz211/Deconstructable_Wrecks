@@ -85,4 +85,12 @@
     <hudbutton.detach_charging_dock_first_remove_items>Detach Charging Dock (remove items first)</hudbutton.detach_charging_dock_first_remove_items>
     <hudbutton.detach_lamp>Detach Lamp</hudbutton.detach_lamp>
     <hudbutton.detach_bunk>Detach Bunk</hudbutton.detach_bunk>
+
+    <entityname.thalamuscup>Thalamus Cup</entityname.thalamuscup>
+    <entitydescription.thalamuscup>For those who's kill the thalamus</entitydescription.thalamuscup>
+
+    <entityname.wreckedmotor0>Rusty Motor</entityname.wreckedmotor0>
+    <entitydescription.wreckedmotor0>Usually found in wrecks.</entitydescription.wreckedmotor0>
+    <entityname.wreckedgear0>Old Gear</entityname.wreckedgear0>
+    <entitydescription.wreckedgear0>Looks as bad as you can see. Deconstructing it is the best thing what you can do.</entitydescription.wreckedgear0>
 </infotexts>

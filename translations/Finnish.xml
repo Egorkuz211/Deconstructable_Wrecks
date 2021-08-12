@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<infotexts language="Finnish (Google Translate)">
+    <entityname.reactor_originalwrecked>Vanha ydinreaktori</entityname.reactor_originalwrecked>
+    <entityname.railgun_originalwrecked>Vanha Railgun</entityname.railgun_originalwrecked>
+    <entityname.periscope_originalwrecked>Vanha periskooppi</entityname.periscope_originalwrecked>
+    <entityname.railgunloader_originalwrecked>Vanha Railgun Loader</entityname.railgunloader_originalwrecked>
+    <entityname.railgunloadersinglevertical_originalwrecked>Vanha Railgun Loader</entityname.railgunloadersinglevertical_originalwrecked>
+    <entityname.railgunloadersinglehorizontal_originalwrecked>Vanha Railgun Loader</entityname.railgunloadersinglehorizontal_originalwrecked>
+    <entityname.coilgun_originalwrecked>Vanha Coilgun</entityname.coilgun_originalwrecked>
+    <entityname.coilgunloader_originalwrecked>Vanha asepistooli</entityname.coilgunloader_originalwrecked>
+    <entityname.oxygenerator_originalwrecked>Vanha happigeneraattori</entityname.oxygenerator_originalwrecked>
+    <entityname.shuttleoxygenerator_originalwrecked>Shuttle: n vanha happigeneraattori</entityname.shuttleoxygenerator_originalwrecked>
+    <entityname.fabricator_originalwrecked>Vanha valmistaja</entityname.fabricator_originalwrecked>
+    <entityname.medicalfabricator_originalwrecked>Vanha lääketieteellinen valmistaja</entityname.medicalfabricator_originalwrecked>
+    <entityname.deconstructor_originalwrecked>Vanha dekonstruktori</entityname.deconstructor_originalwrecked>
+    <entityname.engine_originalwrecked>Vanha moottori</entityname.engine_originalwrecked>
+    <entityname.largeengine_originalwrecked>Vanha iso moottori</entityname.largeengine_originalwrecked>
+    <entityname.shuttleengine_originalwrecked>Shuttle: n vanha moottori</entityname.shuttleengine_originalwrecked>
+    <entityname.dockingport_originalwrecked>Vanha telakointiasema</entityname.dockingport_originalwrecked>
+    <entityname.dockinghatch_originalwrecked>Vanha telakointiluukku</entityname.dockinghatch_originalwrecked>
+    <entityname.suppliescabinet_originalwrecked>Vanhojen tarvikkeiden kaappi</entityname.suppliescabinet_originalwrecked>
+    <entityname.mediumsteelcabinet_originalwrecked>Vanha keskikokoinen teräskaappi</entityname.mediumsteelcabinet_originalwrecked>
+    <entityname.mediumwindowedsteelcabinet_originalwrecked>Vanha keskikokoinen teräskaappi</entityname.mediumwindowedsteelcabinet_originalwrecked>
+    <entityname.steelcabinet_originalwrecked>Vanha teräskaappi</entityname.steelcabinet_originalwrecked>
+    <entityname.securesteelcabinet_originalwrecked>Vanha suojattu teräskaappi</entityname.securesteelcabinet_originalwrecked>
+    <entityname.railgunshellrack_originalwrecked>Vanha Railgun -kuoriteline</entityname.railgunshellrack_originalwrecked>
+    <entityname.coilgunammoshelf_originalwrecked>Vanha Coilgun -teline</entityname.coilgunammoshelf_originalwrecked>
+    <entityname.medcabinet_originalwrecked>Vanha lääketieteellinen kabinetti</entityname.medcabinet_originalwrecked>
+    <entityname.toxcabinet_originalwrecked>Vanha kaappi myrkkyille</entityname.toxcabinet_originalwrecked>
+    <entityname.divingsuitlocker_originalwrecked>Vanha sukelluspuku</entityname.divingsuitlocker_originalwrecked>
+    <entityname.oxygentankshelf_originalwrecked>Vanha happisäiliön hylly</entityname.oxygentankshelf_originalwrecked>
+    <entityname.extinguisherbracket_originalwrecked>Vanha sammuttimen kiinnike</entityname.extinguisherbracket_originalwrecked>
+    <entityname.weaponholder_originalwrecked>Vanha aseenpidike</entityname.weaponholder_originalwrecked>
+    <entityname.navterminal_originalwrecked>Vanha navigointipääte</entityname.navterminal_originalwrecked>
+    <entityname.shuttlenavterminal_originalwrecked>Vanha navigointiterminaali Shuttlelta</entityname.shuttlenavterminal_originalwrecked>
+    <entityname.statusmonitor_originalwrecked>Vanha tilanvalvonta</entityname.statusmonitor_originalwrecked>
+    <entityname.sonartransducer_originalwrecked>Vanha luotainanturi</entityname.sonartransducer_originalwrecked>
+    <entityname.junctionbox_originalwrecked>Vanha kytkentärasia</entityname.junctionbox_originalwrecked>
+    <entityname.battery_originalwrecked>Vanha akku</entityname.battery_originalwrecked>
+    <entityname.shuttlebattery_originalwrecked>Shuttle: n vanha akku</entityname.shuttlebattery_originalwrecked>
+    <entityname.supercapacitor_originalwrecked>Vanha superkondensaattori</entityname.supercapacitor_originalwrecked>
+    <entityname.chargingdock_originalwrecked>Vanha latauslaite</entityname.chargingdock_originalwrecked>
+    <entityname.lamp_originalwrecked>Vanha lamppu</entityname.lamp_originalwrecked>
+    <entityname.bunk_originalwrecked>Vanha kerrossänky</entityname.bunk_originalwrecked>
+    <entityname.oldbatterycell>Vanha akkukenno</entityname.oldbatterycell>
+    <entitydescription.oldbatterycell>Se ei näytä hyvältä.</entitydescription.oldbatterycell>
+    <entityname.oldfpgacircuit>Rikkoutunut FPGA -piiri</entityname.oldfpgacircuit>
+    <entitydescription.oldfpgacircuit>Ehkä se toimii ennenkin ...</entitydescription.oldfpgacircuit>
+    <entityname.oldsiren>Rikki sireeni</entityname.oldsiren>
+    <entitydescription.oldsiren>Ei vain toimi ...</entitydescription.oldsiren>
+    <hudbutton.detach_reactor>Irrota reaktori</hudbutton.detach_reactor>
+    <hudbutton.detach_railgun>Irrota Railgun</hudbutton.detach_railgun>
+    <hudbutton.detach_periscope>Irrota periskooppi</hudbutton.detach_periscope>
+    <hudbutton.detach_loader>Irrota kuormaaja (poista kohteet ensin)</hudbutton.detach_loader>
+    <hudbutton.detach_coilgun>Irrota Coilgun</hudbutton.detach_coilgun>
+    <hudbutton.detach_oxygen_generator>Irrota happigeneraattori</hudbutton.detach_oxygen_generator>
+    <hudbutton.detach_vent>Irrota tuuletusaukko</hudbutton.detach_vent>
+    <hudbutton.detach_ladder>Irrota tikkaat</hudbutton.detach_ladder>
+    <hudbutton.detach_fabricator>Irrota valmistaja</hudbutton.detach_fabricator>
+    <hudbutton.detach_med_fabricator>Irrota lääketieteellinen valmistaja</hudbutton.detach_med_fabricator>
+    <hudbutton.detach_deconstructor>Irrota dekonstruktori</hudbutton.detach_deconstructor>
+    <hudbutton.detach_engine>Irrota moottori</hudbutton.detach_engine>
+    <hudbutton.detach_door>Irrota ovi</hudbutton.detach_door>
+    <hudbutton.detach_docking_port>Irrota telakointiportti</hudbutton.detach_docking_port>
+    <hudbutton.detach_docking_hatch>Irrota telakointiluukku</hudbutton.detach_docking_hatch>
+    <hudbutton.detach_supplies_cabinet_first_remove_items>Irrota tarvikekaappi (poista tavarat ensin)</hudbutton.detach_supplies_cabinet_first_remove_items>
+    <hudbutton.detach_medium_steel_cabinet_first_remove_items>Irrota kaappi (poista tavarat ensin)</hudbutton.detach_medium_steel_cabinet_first_remove_items>
+    <hudbutton.detach_steel_cabinet_first_remove_items>Irrota kaappi (poista tavarat ensin)</hudbutton.detach_steel_cabinet_first_remove_items>
+    <hudbutton.detach_secure_cabinet_first_remove_items>Irrota suojattu kaappi (poista ensin esineet)</hudbutton.detach_secure_cabinet_first_remove_items>
+    <hudbutton.detach_railgun_rack_first_remove_items>Irrota Railgun -kuoriteline (poista ensin kohteet)</hudbutton.detach_railgun_rack_first_remove_items>
+    <hudbutton.detach_coilgun_rack_first_remove_items>Irrota Coilgun Ammunition Rack (poista esineet ensin)</hudbutton.detach_coilgun_rack_first_remove_items>
+    <hudbutton.detach_med_cabinet_first_remove_items>Irrota lääketieteellinen kaappi (poista tavarat ensin)</hudbutton.detach_med_cabinet_first_remove_items>
+    <hudbutton.detach_tox_cabinet_first_remove_items>Irrota Tox -kaappi (poista tavarat ensin)</hudbutton.detach_tox_cabinet_first_remove_items>
+    <hudbutton.detach_diving_locker_first_remove_items>Irrota sukelluspuku (poista tavarat ensin)</hudbutton.detach_diving_locker_first_remove_items>
+    <hudbutton.detach_oxygen_shelf_first_remove_items>Irrota happihylly (poista tavarat ensin)</hudbutton.detach_oxygen_shelf_first_remove_items>
+    <hudbutton.detach_extinguisher_bracket_first_remove_items>Irrota kiinnike (poista ensin kohteet)</hudbutton.detach_extinguisher_bracket_first_remove_items>
+    <hudbutton.detach_weapon_holder_first_remove_items>Irrota aseenpidike (poista esineet ensin)</hudbutton.detach_weapon_holder_first_remove_items>
+    <hudbutton.detach_terminal>Irrota navigointipääte</hudbutton.detach_terminal>
+    <hudbutton.detach_monitor>Irrota näyttö</hudbutton.detach_monitor>
+    <hudbutton.detach_transducer>Irrota anturi</hudbutton.detach_transducer>
+    <hudbutton.detach_junctionbox>Irrota kytkentärasia</hudbutton.detach_junctionbox>
+    <hudbutton.detach_battery_first_remove_items>Irrota akku (poista ensin kohteet)</hudbutton.detach_battery_first_remove_items>
+    <hudbutton.detach_capacitor>Irrota kondensaattori</hudbutton.detach_capacitor>
+    <hudbutton.detach_charging_dock_first_remove_items>Irrota latauslaite (poista kohteet ensin)</hudbutton.detach_charging_dock_first_remove_items>
+    <hudbutton.detach_lamp>Irrota lamppu</hudbutton.detach_lamp>
+    <hudbutton.detach_bunk>Irrota kerrossänky</hudbutton.detach_bunk>
+    <entityname.thalamuscup>Thalamus Cup</entityname.thalamuscup>
+    <entitydescription.thalamuscup>Niille, jotka tappavat thalamuksen</entitydescription.thalamuscup>
+    <entityname.wreckedmotor0>Ruosteinen moottori</entityname.wreckedmotor0>
+    <entitydescription.wreckedmotor0>Yleensä löytyy hylkyistä.</entitydescription.wreckedmotor0>
+    <entityname.wreckedgear0>Vanha vaihde</entityname.wreckedgear0>
+    <entitydescription.wreckedgear0>Näyttää niin pahalta kuin näet. Sen purkaminen on parasta mitä voit tehdä.</entitydescription.wreckedgear0>
+</infotexts>

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<contentpackage name="Decontructable Wrecks" path="Mods/Decontructable Wrecks/filelist.xml" corepackage="false" gameversion="0.14.6.0" steamworkshopid="2521970742" installtime="1627382204">
+<contentpackage name="Decontructable Wrecks" path="Mods/Decontructable Wrecks/filelist.xml" corepackage="false" gameversion="0.14.6.0" steamworkshopid="2521970742" installtime="1628761787">
   <Item file="Mods/Decontructable Wrecks/deconstruct_items.xml" />
   <Structure file="Mods/Decontructable Wrecks/deconstruct_walls.xml" />
   <Item file="Mods/Decontructable Wrecks/decontruct_thalamus.xml" />
@@ -8,4 +8,21 @@
   <Text file="Mods/Decontructable Wrecks/translations/Polish.xml" />
   <None file="Mods/Decontructable Wrecks/textures/wreckeditems.png" />
   <Item file="Mods/Decontructable Wrecks/specialitems/wreck_items.xml" />
+  <None file="Mods/Decontructable Wrecks/textures/thalamus.png" />
+  <Item file="Mods/Decontructable Wrecks/specialitems/thalamus_items.xml" />
+  <Text file="Mods/Decontructable Wrecks/translations/BrazilianPortuguese.xml" />
+  <Text file="Mods/Decontructable Wrecks/translations/French.xml" />
+  <Text file="Mods/Decontructable Wrecks/translations/Korean.xml" />
+  <Text file="Mods/Decontructable Wrecks/translations/TraditionalChinese.xml" />
+  <Text file="Mods/Decontructable Wrecks/translations/Russian.xml" />
+  <Text file="Mods/Decontructable Wrecks/translations/CastilianSpanish.xml" />
+  <Text file="Mods/Decontructable Wrecks/translations/SimplifiedChinese.xml" />
+  <Text file="Mods/Decontructable Wrecks/translations/Japanese.xml" />
+  <Text file="Mods/Decontructable Wrecks/translations/Turkish.xml" />
+  <Text file="Mods/Decontructable Wrecks/translations/German.xml" />
+  <Text file="Mods/Decontructable Wrecks/translations/LatinamericanSpanish.xml" />
+  <Text file="Mods/Decontructable Wrecks/translations/Finnish.xml" />
+  <Item file="Mods/Decontructable Wrecks/specialitems/wreck_items2.xml" />
+  <None file="Mods/Decontructable Wrecks/textures/gear0.png" />
+  <None file="Mods/Decontructable Wrecks/textures/motor0.png" />
 </contentpackage>

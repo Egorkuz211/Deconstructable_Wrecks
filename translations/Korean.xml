@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<infotexts language="Korean" nowhitespace="true" translatedname="한국어">
+    <entityname.reactor_originalwrecked>오래된 원자로</entityname.reactor_originalwrecked>
+    <entityname.railgun_originalwrecked>오래된 레일건</entityname.railgun_originalwrecked>
+    <entityname.periscope_originalwrecked>오래된 잠망경</entityname.periscope_originalwrecked>
+    <entityname.railgunloader_originalwrecked>오래된 레일건 로더</entityname.railgunloader_originalwrecked>
+    <entityname.railgunloadersinglevertical_originalwrecked>오래된 레일건 로더</entityname.railgunloadersinglevertical_originalwrecked>
+    <entityname.railgunloadersinglehorizontal_originalwrecked>오래된 레일건 로더</entityname.railgunloadersinglehorizontal_originalwrecked>
+    <entityname.coilgun_originalwrecked>오래된 코일건</entityname.coilgun_originalwrecked>
+    <entityname.coilgunloader_originalwrecked>오래된 코일건 로더</entityname.coilgunloader_originalwrecked>
+    <entityname.oxygenerator_originalwrecked>오래된 산소 발생기</entityname.oxygenerator_originalwrecked>
+    <entityname.shuttleoxygenerator_originalwrecked>셔틀의 오래된 산소 발생기</entityname.shuttleoxygenerator_originalwrecked>
+    <entityname.fabricator_originalwrecked>오래된 날조자</entityname.fabricator_originalwrecked>
+    <entityname.medicalfabricator_originalwrecked>오래된 의료 제작자</entityname.medicalfabricator_originalwrecked>
+    <entityname.deconstructor_originalwrecked>오래된 해체자</entityname.deconstructor_originalwrecked>
+    <entityname.engine_originalwrecked>오래된 엔진</entityname.engine_originalwrecked>
+    <entityname.largeengine_originalwrecked>오래된 대형 엔진</entityname.largeengine_originalwrecked>
+    <entityname.shuttleengine_originalwrecked>셔틀의 오래된 엔진</entityname.shuttleengine_originalwrecked>
+    <entityname.dockingport_originalwrecked>오래된 도킹 포트</entityname.dockingport_originalwrecked>
+    <entityname.dockinghatch_originalwrecked>오래된 도킹 해치</entityname.dockinghatch_originalwrecked>
+    <entityname.suppliescabinet_originalwrecked>오래된 용품 캐비닛</entityname.suppliescabinet_originalwrecked>
+    <entityname.mediumsteelcabinet_originalwrecked>오래된 중간 강철 캐비닛</entityname.mediumsteelcabinet_originalwrecked>
+    <entityname.mediumwindowedsteelcabinet_originalwrecked>오래된 중간 창 강철 캐비닛</entityname.mediumwindowedsteelcabinet_originalwrecked>
+    <entityname.steelcabinet_originalwrecked>오래된 강철 캐비닛</entityname.steelcabinet_originalwrecked>
+    <entityname.securesteelcabinet_originalwrecked>오래된 보안 강철 캐비닛</entityname.securesteelcabinet_originalwrecked>
+    <entityname.railgunshellrack_originalwrecked>오래된 레일건 쉘 랙</entityname.railgunshellrack_originalwrecked>
+    <entityname.coilgunammoshelf_originalwrecked>오래된 코일건 랙</entityname.coilgunammoshelf_originalwrecked>
+    <entityname.medcabinet_originalwrecked>오래된 의료 캐비닛</entityname.medcabinet_originalwrecked>
+    <entityname.toxcabinet_originalwrecked>독소에 대한 오래된 캐비닛</entityname.toxcabinet_originalwrecked>
+    <entityname.divingsuitlocker_originalwrecked>오래된 잠수복 사물함</entityname.divingsuitlocker_originalwrecked>
+    <entityname.oxygentankshelf_originalwrecked>오래된 산소 탱크 선반</entityname.oxygentankshelf_originalwrecked>
+    <entityname.extinguisherbracket_originalwrecked>오래된 소화기 브래킷</entityname.extinguisherbracket_originalwrecked>
+    <entityname.weaponholder_originalwrecked>오래된 무기 홀더</entityname.weaponholder_originalwrecked>
+    <entityname.navterminal_originalwrecked>오래된 항법 터미널</entityname.navterminal_originalwrecked>
+    <entityname.shuttlenavterminal_originalwrecked>셔틀의 오래된 내비게이션 터미널</entityname.shuttlenavterminal_originalwrecked>
+    <entityname.statusmonitor_originalwrecked>이전 상태 모니터</entityname.statusmonitor_originalwrecked>
+    <entityname.sonartransducer_originalwrecked>구형 소나 변환기</entityname.sonartransducer_originalwrecked>
+    <entityname.junctionbox_originalwrecked>오래된 정션 박스</entityname.junctionbox_originalwrecked>
+    <entityname.battery_originalwrecked>오래된 배터리</entityname.battery_originalwrecked>
+    <entityname.shuttlebattery_originalwrecked>셔틀의 오래된 배터리</entityname.shuttlebattery_originalwrecked>
+    <entityname.supercapacitor_originalwrecked>오래된 슈퍼 커패시터</entityname.supercapacitor_originalwrecked>
+    <entityname.chargingdock_originalwrecked>오래된 충전 도크</entityname.chargingdock_originalwrecked>
+    <entityname.lamp_originalwrecked>오래된 램프</entityname.lamp_originalwrecked>
+    <entityname.bunk_originalwrecked>오래된 침대</entityname.bunk_originalwrecked>
+    <entityname.oldbatterycell>오래된 배터리 셀</entityname.oldbatterycell>
+    <entitydescription.oldbatterycell>잘 보이지 않습니다.</entitydescription.oldbatterycell>
+    <entityname.oldfpgacircuit>깨진 FPGA 회로</entityname.oldfpgacircuit>
+    <entitydescription.oldfpgacircuit>어쩌면 그 전에 작동합니다 ...</entitydescription.oldfpgacircuit>
+    <entityname.oldsiren>부서진 사이렌</entityname.oldsiren>
+    <entitydescription.oldsiren>작동하지 않을뿐...</entitydescription.oldsiren>
+    <hudbutton.detach_reactor>분리 반응기</hudbutton.detach_reactor>
+    <hudbutton.detach_railgun>레일건 분리</hudbutton.detach_railgun>
+    <hudbutton.detach_periscope>잠망경 분리</hudbutton.detach_periscope>
+    <hudbutton.detach_loader>로더 분리(먼저 항목 제거)</hudbutton.detach_loader>
+    <hudbutton.detach_coilgun>코일건 분리</hudbutton.detach_coilgun>
+    <hudbutton.detach_oxygen_generator>산소 발생기 분리</hudbutton.detach_oxygen_generator>
+    <hudbutton.detach_vent>통풍구 분리</hudbutton.detach_vent>
+    <hudbutton.detach_ladder>사다리 분리</hudbutton.detach_ladder>
+    <hudbutton.detach_fabricator>패브리케이터 분리</hudbutton.detach_fabricator>
+    <hudbutton.detach_med_fabricator>의료 제작자 분리</hudbutton.detach_med_fabricator>
+    <hudbutton.detach_deconstructor>Deconstructor 분리</hudbutton.detach_deconstructor>
+    <hudbutton.detach_engine>엔진 분리</hudbutton.detach_engine>
+    <hudbutton.detach_door>도어 분리</hudbutton.detach_door>
+    <hudbutton.detach_docking_port>도킹 포트 분리</hudbutton.detach_docking_port>
+    <hudbutton.detach_docking_hatch>도킹 해치 분리</hudbutton.detach_docking_hatch>
+    <hudbutton.detach_supplies_cabinet_first_remove_items>소모품 캐비닛 분리(먼저 항목 제거)</hudbutton.detach_supplies_cabinet_first_remove_items>
+    <hudbutton.detach_medium_steel_cabinet_first_remove_items>캐비닛 분리(먼저 항목 제거)</hudbutton.detach_medium_steel_cabinet_first_remove_items>
+    <hudbutton.detach_steel_cabinet_first_remove_items>캐비닛 분리(먼저 항목 제거)</hudbutton.detach_steel_cabinet_first_remove_items>
+    <hudbutton.detach_secure_cabinet_first_remove_items>보안 캐비닛 분리(먼저 항목 제거)</hudbutton.detach_secure_cabinet_first_remove_items>
+    <hudbutton.detach_railgun_rack_first_remove_items>레일건 쉘 랙 분리(먼저 항목 제거)</hudbutton.detach_railgun_rack_first_remove_items>
+    <hudbutton.detach_coilgun_rack_first_remove_items>코일건 탄약 랙 분리(먼저 항목 제거)</hudbutton.detach_coilgun_rack_first_remove_items>
+    <hudbutton.detach_med_cabinet_first_remove_items>의료 캐비닛 분리(먼저 항목 제거)</hudbutton.detach_med_cabinet_first_remove_items>
+    <hudbutton.detach_tox_cabinet_first_remove_items>Tox 캐비닛 분리(먼저 항목 제거)</hudbutton.detach_tox_cabinet_first_remove_items>
+    <hudbutton.detach_diving_locker_first_remove_items>잠수복 로커 분리(먼저 항목 제거)</hudbutton.detach_diving_locker_first_remove_items>
+    <hudbutton.detach_oxygen_shelf_first_remove_items>산소 선반 분리(먼저 항목 제거)</hudbutton.detach_oxygen_shelf_first_remove_items>
+    <hudbutton.detach_extinguisher_bracket_first_remove_items>브래킷 분리(먼저 항목 제거)</hudbutton.detach_extinguisher_bracket_first_remove_items>
+    <hudbutton.detach_weapon_holder_first_remove_items>무기 홀더 분리(먼저 항목 제거)</hudbutton.detach_weapon_holder_first_remove_items>
+    <hudbutton.detach_terminal>네비게이션 터미널 분리</hudbutton.detach_terminal>
+    <hudbutton.detach_monitor>모니터 분리</hudbutton.detach_monitor>
+    <hudbutton.detach_transducer>변환기 분리</hudbutton.detach_transducer>
+    <hudbutton.detach_junctionbox>정션 박스 분리</hudbutton.detach_junctionbox>
+    <hudbutton.detach_battery_first_remove_items>배터리 분리(먼저 항목 제거)</hudbutton.detach_battery_first_remove_items>
+    <hudbutton.detach_capacitor>콘덴서 분리</hudbutton.detach_capacitor>
+    <hudbutton.detach_charging_dock_first_remove_items>충전 도크 분리(먼저 항목 제거)</hudbutton.detach_charging_dock_first_remove_items>
+    <hudbutton.detach_lamp>램프 분리</hudbutton.detach_lamp>
+    <hudbutton.detach_bunk>디테치 벙크</hudbutton.detach_bunk>
+    <entityname.thalamuscup>시상 컵</entityname.thalamuscup>
+    <entitydescription.thalamuscup>시상을 죽이는 사람들을 위해</entitydescription.thalamuscup>
+    <entityname.wreckedmotor0>녹슨 모터</entityname.wreckedmotor0>
+    <entitydescription.wreckedmotor0>일반적으로 난파선에서 발견됩니다.</entitydescription.wreckedmotor0>
+    <entityname.wreckedgear0>올드 기어</entityname.wreckedgear0>
+    <entitydescription.wreckedgear0>당신이 볼 수있는만큼 나빠 보인다. 그것을 해체하는 것이 당신이 할 수 있는 최선의 일입니다.</entitydescription.wreckedgear0>
+</infotexts>

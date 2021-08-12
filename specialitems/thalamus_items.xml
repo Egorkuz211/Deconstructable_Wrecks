@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Items type="wrecked">
+    <Item impactsoundtag="impact_metal_light" Scale="0.1" identifier="thalamuscup" tags="smallitem" maxstacksize="3" category="Wrecked" noninteractable="false" canbepicked="true" canbeselected="true" >
+        <Sprite texture="Mods/Decontructable Wrecks/textures/thalamus.png" sourcerect="1,1,315,400" origin="0.5,0.5" />
+        <InventoryIcon texture="Mods/Decontructable Wrecks/textures/thalamus.png" sourcerect="1,1,315,400" origin="0.5,0.5" />
+        <Body width="32" height="20" density="30" />
+        <Holdable slots="Any,RightHand,LeftHand" msg="ItemMsgPickUpSelect" PickingTime="5.0" aimpos="0, 0" handle1="0,0" attachable="true" aimable="true" />
+        <Deconstruct time="10">
+            <Item identifier="steel" />
+            <Item identifier="scrap" />
+        </Deconstruct>
+        <Price baseprice="600">
+            <Price locationtype="outpost" multiplier="0.9" minavailable="0" maxavailable="0" />
+            <Price locationtype="city" multiplier="1.2" minavailable="0" maxavailable="0" />
+            <Price locationtype="research" multiplier="1.6" minavailable="0" maxavailable="0" />
+            <Price locationtype="military" multiplier="1" minavailable="0" maxavailable="0" />
+            <Price locationtype="mine" multiplier="1" minavailable="0" maxavailable="0" />
+        </Price>
+    </Item>
+</Items>

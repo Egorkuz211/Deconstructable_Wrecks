@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<infotexts language="Turkish" nowhitespace="false" translatedname="Türkçe">
+    <entityname.reactor_originalwrecked>Eski nükleer reaktör</entityname.reactor_originalwrecked>
+    <entityname.railgun_originalwrecked>eski raylı tüfek</entityname.railgun_originalwrecked>
+    <entityname.periscope_originalwrecked>eski periskop</entityname.periscope_originalwrecked>
+    <entityname.railgunloader_originalwrecked>Eski Raylı Yükleyici</entityname.railgunloader_originalwrecked>
+    <entityname.railgunloadersinglevertical_originalwrecked>Eski Raylı Yükleyici</entityname.railgunloadersinglevertical_originalwrecked>
+    <entityname.railgunloadersinglehorizontal_originalwrecked>Eski Raylı Yükleyici</entityname.railgunloadersinglehorizontal_originalwrecked>
+    <entityname.coilgun_originalwrecked>eski bobin</entityname.coilgun_originalwrecked>
+    <entityname.coilgunloader_originalwrecked>Eski Bobinli Yükleyici</entityname.coilgunloader_originalwrecked>
+    <entityname.oxygenerator_originalwrecked>Eski Oksijen Jeneratörü</entityname.oxygenerator_originalwrecked>
+    <entityname.shuttleoxygenerator_originalwrecked>Shuttle'dan Eski Oksijen Jeneratörü</entityname.shuttleoxygenerator_originalwrecked>
+    <entityname.fabricator_originalwrecked>eski fabrikatör</entityname.fabricator_originalwrecked>
+    <entityname.medicalfabricator_originalwrecked>Eski Tıbbi Fabrikatör</entityname.medicalfabricator_originalwrecked>
+    <entityname.deconstructor_originalwrecked>Eski Yapıcı</entityname.deconstructor_originalwrecked>
+    <entityname.engine_originalwrecked>eski motor</entityname.engine_originalwrecked>
+    <entityname.largeengine_originalwrecked>Eski Büyük Motor</entityname.largeengine_originalwrecked>
+    <entityname.shuttleengine_originalwrecked>Shuttle'dan Eski Motor</entityname.shuttleengine_originalwrecked>
+    <entityname.dockingport_originalwrecked>Eski Yerleştirme Bağlantı Noktası</entityname.dockingport_originalwrecked>
+    <entityname.dockinghatch_originalwrecked>Eski Yerleştirme Kapağı</entityname.dockinghatch_originalwrecked>
+    <entityname.suppliescabinet_originalwrecked>Eski Malzeme Dolabı</entityname.suppliescabinet_originalwrecked>
+    <entityname.mediumsteelcabinet_originalwrecked>Eski Orta Çelik Dolap</entityname.mediumsteelcabinet_originalwrecked>
+    <entityname.mediumwindowedsteelcabinet_originalwrecked>Eski Orta Pencere Çelik Dolap</entityname.mediumwindowedsteelcabinet_originalwrecked>
+    <entityname.steelcabinet_originalwrecked>Eski Çelik Dolap</entityname.steelcabinet_originalwrecked>
+    <entityname.securesteelcabinet_originalwrecked>Eski Güvenli Çelik Dolap</entityname.securesteelcabinet_originalwrecked>
+    <entityname.railgunshellrack_originalwrecked>Eski Raylı Tabanca Rafı</entityname.railgunshellrack_originalwrecked>
+    <entityname.coilgunammoshelf_originalwrecked>Eski Bobin Tabancası Rafı</entityname.coilgunammoshelf_originalwrecked>
+    <entityname.medcabinet_originalwrecked>Eski Tıbbi Dolap</entityname.medcabinet_originalwrecked>
+    <entityname.toxcabinet_originalwrecked>Toksinler için Eski Dolap</entityname.toxcabinet_originalwrecked>
+    <entityname.divingsuitlocker_originalwrecked>Eski Dalgıç Takımı Soyunma</entityname.divingsuitlocker_originalwrecked>
+    <entityname.oxygentankshelf_originalwrecked>Eski Oksijen Deposu Rafı</entityname.oxygentankshelf_originalwrecked>
+    <entityname.extinguisherbracket_originalwrecked>Eski Yangın Söndürme Braketi</entityname.extinguisherbracket_originalwrecked>
+    <entityname.weaponholder_originalwrecked>Eski Silah Tutucu</entityname.weaponholder_originalwrecked>
+    <entityname.navterminal_originalwrecked>Eski Navigasyon Terminali</entityname.navterminal_originalwrecked>
+    <entityname.shuttlenavterminal_originalwrecked>Shuttle'dan Eski Navigasyon Terminali</entityname.shuttlenavterminal_originalwrecked>
+    <entityname.statusmonitor_originalwrecked>Eski Durum Monitörü</entityname.statusmonitor_originalwrecked>
+    <entityname.sonartransducer_originalwrecked>Eski Sonar Dönüştürücü</entityname.sonartransducer_originalwrecked>
+    <entityname.junctionbox_originalwrecked>Eski Bağlantı Kutusu</entityname.junctionbox_originalwrecked>
+    <entityname.battery_originalwrecked>Eski Pil</entityname.battery_originalwrecked>
+    <entityname.shuttlebattery_originalwrecked>Shuttle'dan Eski Pil</entityname.shuttlebattery_originalwrecked>
+    <entityname.supercapacitor_originalwrecked>Eski Süper Kapasitör</entityname.supercapacitor_originalwrecked>
+    <entityname.chargingdock_originalwrecked>Eski Şarj Yuvası</entityname.chargingdock_originalwrecked>
+    <entityname.lamp_originalwrecked>eski lamba</entityname.lamp_originalwrecked>
+    <entityname.bunk_originalwrecked>eski ranza</entityname.bunk_originalwrecked>
+    <entityname.oldbatterycell>Eski Pil Hücresi</entityname.oldbatterycell>
+    <entitydescription.oldbatterycell>İyi görünmüyor.</entitydescription.oldbatterycell>
+    <entityname.oldfpgacircuit>Kırık FPGA Devresi</entityname.oldfpgacircuit>
+    <entitydescription.oldfpgacircuit>Belki daha önce çalışır...</entitydescription.oldfpgacircuit>
+    <entityname.oldsiren>kırık siren</entityname.oldsiren>
+    <entitydescription.oldsiren>Sadece çalışmıyor...</entitydescription.oldsiren>
+    <hudbutton.detach_reactor>Reaktörü Ayır</hudbutton.detach_reactor>
+    <hudbutton.detach_railgun>Raylı Tabancayı Ayır</hudbutton.detach_railgun>
+    <hudbutton.detach_periscope>Periskopu Ayır</hudbutton.detach_periscope>
+    <hudbutton.detach_loader>Yükleyiciyi Ayır (önce öğeleri kaldırın)</hudbutton.detach_loader>
+    <hudbutton.detach_coilgun>Bobin Tabancasını Ayır</hudbutton.detach_coilgun>
+    <hudbutton.detach_oxygen_generator>Oksijen Jeneratörünü Ayır</hudbutton.detach_oxygen_generator>
+    <hudbutton.detach_vent>Havalandırmayı Ayır</hudbutton.detach_vent>
+    <hudbutton.detach_ladder>Merdiveni Çıkar</hudbutton.detach_ladder>
+    <hudbutton.detach_fabricator>Fabrikatörden Ayrıl</hudbutton.detach_fabricator>
+    <hudbutton.detach_med_fabricator>Tıbbi Fabrikatörden Ayrılın</hudbutton.detach_med_fabricator>
+    <hudbutton.detach_deconstructor>Deconstructor'ı Ayır</hudbutton.detach_deconstructor>
+    <hudbutton.detach_engine>Motoru Ayır</hudbutton.detach_engine>
+    <hudbutton.detach_door>Kapıyı Ayır</hudbutton.detach_door>
+    <hudbutton.detach_docking_port>Bağlantı Noktasını Ayır</hudbutton.detach_docking_port>
+    <hudbutton.detach_docking_hatch>Yerleştirme Kapağını Ayır</hudbutton.detach_docking_hatch>
+    <hudbutton.detach_supplies_cabinet_first_remove_items>Sarf Malzemesi Dolabı'nı ayırın (önce öğeleri kaldırın)</hudbutton.detach_supplies_cabinet_first_remove_items>
+    <hudbutton.detach_medium_steel_cabinet_first_remove_items>Kabini Çıkarın (önce öğeleri kaldırın)</hudbutton.detach_medium_steel_cabinet_first_remove_items>
+    <hudbutton.detach_steel_cabinet_first_remove_items>Kabini Çıkarın (önce öğeleri kaldırın)</hudbutton.detach_steel_cabinet_first_remove_items>
+    <hudbutton.detach_secure_cabinet_first_remove_items>Güvenli Kabini Çıkarın (önce öğeleri çıkarın)</hudbutton.detach_secure_cabinet_first_remove_items>
+    <hudbutton.detach_railgun_rack_first_remove_items>Railgun Shell Rack'i ayırın (önce öğeleri kaldırın)</hudbutton.detach_railgun_rack_first_remove_items>
+    <hudbutton.detach_coilgun_rack_first_remove_items>Bobinli Mühimmat Rafını ayırın (önce öğeleri kaldırın)</hudbutton.detach_coilgun_rack_first_remove_items>
+    <hudbutton.detach_med_cabinet_first_remove_items>Tıbbi Dolabı Çıkarın (önce öğeleri kaldırın)</hudbutton.detach_med_cabinet_first_remove_items>
+    <hudbutton.detach_tox_cabinet_first_remove_items>Toksin Kabinini Çıkarın (önce öğeleri kaldırın)</hudbutton.detach_tox_cabinet_first_remove_items>
+    <hudbutton.detach_diving_locker_first_remove_items>Dalış Elbisesi Dolabı'nı ayırın (önce öğeleri kaldırın)</hudbutton.detach_diving_locker_first_remove_items>
+    <hudbutton.detach_oxygen_shelf_first_remove_items>Oksijen Rafını Çıkarın (önce öğeleri çıkarın)</hudbutton.detach_oxygen_shelf_first_remove_items>
+    <hudbutton.detach_extinguisher_bracket_first_remove_items>Braketi Ayır (önce öğeleri kaldırın)</hudbutton.detach_extinguisher_bracket_first_remove_items>
+    <hudbutton.detach_weapon_holder_first_remove_items>Silah Tutucuyu Çıkar (önce öğeleri kaldır)</hudbutton.detach_weapon_holder_first_remove_items>
+    <hudbutton.detach_terminal>Navigasyon Terminalini Ayır</hudbutton.detach_terminal>
+    <hudbutton.detach_monitor>Monitörü Ayır</hudbutton.detach_monitor>
+    <hudbutton.detach_transducer>Dönüştürücüyü Ayır</hudbutton.detach_transducer>
+    <hudbutton.detach_junctionbox>Bağlantı Kutusunu Ayır</hudbutton.detach_junctionbox>
+    <hudbutton.detach_battery_first_remove_items>Pili Çıkarın (önce öğeleri çıkarın)</hudbutton.detach_battery_first_remove_items>
+    <hudbutton.detach_capacitor>Kapasitör Ayır</hudbutton.detach_capacitor>
+    <hudbutton.detach_charging_dock_first_remove_items>Şarj Ünitesini Çıkarın (önce öğeleri kaldırın)</hudbutton.detach_charging_dock_first_remove_items>
+    <hudbutton.detach_lamp>Lambayı Ayır</hudbutton.detach_lamp>
+    <hudbutton.detach_bunk>Ranzayı ayırın</hudbutton.detach_bunk>
+    <entityname.thalamuscup>Talamus Kupası</entityname.thalamuscup>
+    <entitydescription.thalamuscup>Talamus'u öldürenler için</entitydescription.thalamuscup>
+    <entityname.wreckedmotor0>paslı motor</entityname.wreckedmotor0>
+    <entitydescription.wreckedmotor0>Genellikle batıklarda bulunur.</entitydescription.wreckedmotor0>
+    <entityname.wreckedgear0>Eski Dişli</entityname.wreckedgear0>
+    <entitydescription.wreckedgear0>Görebildiğin kadar kötü görünüyor. Yapısını bozmak yapabileceğiniz en iyi şeydir.</entitydescription.wreckedgear0>
+</infotexts>

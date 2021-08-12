@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Items type="wrecked">
-    <Item name="" impactsoundtag="impact_metal_light" Scale="0.5" identifier="oldbatterycell" tags="smallitem,loadable" maxstacksize="8" type="Reactor" category="Wrecked" noninteractable="false" canbepicked="true" canbeselected="true" >
+    <Item name="" impactsoundtag="impact_metal_light" Scale="0.5" identifier="oldbatterycell" tags="smallitem,loadable" maxstacksize="8" category="Wrecked" noninteractable="false" canbepicked="true" canbeselected="true" >
         <!--trigger /-->
         <Sprite texture="Mods/Decontructable Wrecks/textures/wreckeditems.png" sourcerect="104,87,35,24" origin="0.5,0.5" />
         <PreferredContainer primary="outposttrashcan" minamount="1" maxamount="2" spawnprobability="0.3"/>

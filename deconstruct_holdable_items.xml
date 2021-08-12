@@ -16,7 +16,7 @@
     <Deconstruct time="30">
       <Item identifier="oldfpgacircuit" />
       <Item identifier="lead" />
-      <Item identifier="lead" />
+      <Item identifier="wreckedmotor0" />
       <Item identifier="steel" />
       <Item identifier="titaniumaluminiumalloy" />
     </Deconstruct>
@@ -67,7 +67,7 @@
     <Deconstruct time="30">
       <Item identifier="steel" />
       <Item identifier="oldfpgacircuit" />
-      <Item identifier="titaniumaluminiumalloy" />
+      <Item identifier="wreckedmotor0" />
     </Deconstruct>
 
   </Item>
@@ -221,7 +221,7 @@
     <Deconstruct time="18">
       <Item identifier="steel" />
       <Item identifier="oldfpgacircuit" />
-      <Item identifier="titaniumaluminiumalloy" />
+      <Item identifier="wreckedmotor0" />
     </Deconstruct>
   </Item>
   <Item name="" identifier="coilgunloaderwrecked_m" nameidentifier="coilgunloader" tags="coilgunequipment" category="Wrecked" linkable="true" allowedlinks="coilgun" scale="0.5" noninteractable="false">
@@ -310,7 +310,7 @@
     <Deconstruct time="30">
       <Item identifier="steel" />
       <Item identifier="oldfpgacircuit" />
-      <Item identifier="titaniumaluminiumalloy" />
+      <Item identifier="wreckedmotor0" />
     </Deconstruct>
   </Item>
   <Item name="" identifier="medicalfabricatorwrecked_m" nameidentifier="medicalfabricator" tags="medicalfabricator" category="Wrecked" noninteractable="false">
@@ -347,6 +347,7 @@
       <Item identifier="steel" />
       <Item identifier="oldfpgacircuit" />
       <Item identifier="titaniumaluminiumalloy" />
+      <Item identifier="wreckedmotor0" />
     </Deconstruct>
   </Item>
   <Item name="" identifier="enginewrecked_m" nameidentifier="engine" tags="engine" category="Wrecked" Scale="0.5" noninteractable="false">
@@ -364,7 +365,7 @@
     <Deconstruct time="40">
       <Item identifier="steel" />
       <Item identifier="oldfpgacircuit" />
-      <Item identifier="steel" />
+      <Item identifier="wreckedmotor0" />
       <Item identifier="titaniumaluminiumalloy" />
     </Deconstruct>
   </Item>
@@ -384,7 +385,7 @@
       <Item identifier="steel" />
       <Item identifier="oldfpgacircuit" />
       <Item identifier="steel" />
-      <Item identifier="lead" />
+      <Item identifier="wreckedmotor0" />
       <Item identifier="titaniumaluminiumalloy" />
     </Deconstruct>
   </Item>
@@ -403,6 +404,7 @@
     <Deconstruct time="20">
       <Item identifier="steel" />
       <Item identifier="oldfpgacircuit" />
+      <Item identifier="wreckedmotor0" />
     </Deconstruct>
   </Item>
 
