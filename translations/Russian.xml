@@ -1,93 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <infotexts language="Russian" nowhitespace="false" translatedname="Русский">
     <entityname.reactor_originalwrecked>Старый ядерный реактор</entityname.reactor_originalwrecked>
-    <entityname.railgun_originalwrecked>Старый Рейлган</entityname.railgun_originalwrecked>
-    <entityname.periscope_originalwrecked>Старый Перископ</entityname.periscope_originalwrecked>
-    <entityname.railgunloader_originalwrecked>Старый заряжающий рельсотрон</entityname.railgunloader_originalwrecked>
-    <entityname.railgunloadersinglevertical_originalwrecked>Старый заряжающий рельсотрон</entityname.railgunloadersinglevertical_originalwrecked>
-    <entityname.railgunloadersinglehorizontal_originalwrecked>Старый заряжающий рельсотрон</entityname.railgunloadersinglehorizontal_originalwrecked>
-    <entityname.coilgun_originalwrecked>Старый Coilgun</entityname.coilgun_originalwrecked>
-    <entityname.coilgunloader_originalwrecked>Старый Coilgun Loader</entityname.coilgunloader_originalwrecked>
+    <entityname.railgun_originalwrecked>Старый рельсотрон</entityname.railgun_originalwrecked>
+    <entityname.periscope_originalwrecked>Старый перископ</entityname.periscope_originalwrecked>
+    <entityname.railgunloader_originalwrecked>Старый зарядник рельсотрона</entityname.railgunloader_originalwrecked>
+    <entityname.railgunloadersinglevertical_originalwrecked>Старый одиночный вертикальный зарядник рельсотрона</entityname.railgunloadersinglevertical_originalwrecked>
+    <entityname.railgunloadersinglehorizontal_originalwrecked>Старый одиночный горизонтальный зарядник рельсотрон</entityname.railgunloadersinglehorizontal_originalwrecked>
+    <entityname.coilgun_originalwrecked>Старое магнитное орудие</entityname.coilgun_originalwrecked>
+    <entityname.coilgunloader_originalwrecked>Старый зарядник магнитного орудия</entityname.coilgunloader_originalwrecked>
     <entityname.oxygenerator_originalwrecked>Старый генератор кислорода</entityname.oxygenerator_originalwrecked>
-    <entityname.shuttleoxygenerator_originalwrecked>Старый кислородный генератор из шаттла</entityname.shuttleoxygenerator_originalwrecked>
-    <entityname.fabricator_originalwrecked>Старый фабрикант</entityname.fabricator_originalwrecked>
-    <entityname.medicalfabricator_originalwrecked>Старый производитель медицинских изделий</entityname.medicalfabricator_originalwrecked>
-    <entityname.deconstructor_originalwrecked>Старый Деконструктор</entityname.deconstructor_originalwrecked>
+    <entityname.shuttleoxygenerator_originalwrecked>Старый генератор кислорода для шаттла</entityname.shuttleoxygenerator_originalwrecked>
+    <entityname.fabricator_originalwrecked>Старый фабрикатор</entityname.fabricator_originalwrecked>
+    <entityname.medicalfabricator_originalwrecked>Старый медицинский фабрикатор</entityname.medicalfabricator_originalwrecked>
+    <entityname.deconstructor_originalwrecked>Старый деконструктор</entityname.deconstructor_originalwrecked>
     <entityname.engine_originalwrecked>Старый двигатель</entityname.engine_originalwrecked>
     <entityname.largeengine_originalwrecked>Старый большой двигатель</entityname.largeengine_originalwrecked>
-    <entityname.shuttleengine_originalwrecked>Старый двигатель от шаттла</entityname.shuttleengine_originalwrecked>
+    <entityname.shuttleengine_originalwrecked>Старый двигатель для шаттла</entityname.shuttleengine_originalwrecked>
     <entityname.dockingport_originalwrecked>Старый стыковочный порт</entityname.dockingport_originalwrecked>
     <entityname.dockinghatch_originalwrecked>Старый стыковочный люк</entityname.dockinghatch_originalwrecked>
     <entityname.suppliescabinet_originalwrecked>Старый шкаф с припасами</entityname.suppliescabinet_originalwrecked>
     <entityname.mediumsteelcabinet_originalwrecked>Старый средний стальной шкаф</entityname.mediumsteelcabinet_originalwrecked>
-    <entityname.mediumwindowedsteelcabinet_originalwrecked>Старый средний оконный стальной шкаф</entityname.mediumwindowedsteelcabinet_originalwrecked>
+    <entityname.mediumwindowedsteelcabinet_originalwrecked>Старый средний стальной шкаф с окном</entityname.mediumwindowedsteelcabinet_originalwrecked>
     <entityname.steelcabinet_originalwrecked>Старый стальной шкаф</entityname.steelcabinet_originalwrecked>
-    <entityname.securesteelcabinet_originalwrecked>Старый безопасный стальной шкаф</entityname.securesteelcabinet_originalwrecked>
-    <entityname.railgunshellrack_originalwrecked>Стойка для старых патронов рейлгана</entityname.railgunshellrack_originalwrecked>
-    <entityname.coilgunammoshelf_originalwrecked>Старая стойка для Coilgun</entityname.coilgunammoshelf_originalwrecked>
-    <entityname.medcabinet_originalwrecked>Старый медицинский кабинет</entityname.medcabinet_originalwrecked>
+    <entityname.securesteelcabinet_originalwrecked>Старый защищённый стальной шкаф</entityname.securesteelcabinet_originalwrecked>
+    <entityname.railgunshellrack_originalwrecked>Старая стойка для боеприпасов рельсотрона</entityname.railgunshellrack_originalwrecked>
+    <entityname.coilgunammoshelf_originalwrecked>Старая стойка для боеприпасов магнитного орудия/entityname.coilgunammoshelf_originalwrecked>
+    <entityname.medcabinet_originalwrecked>Старый медицинский шкаф</entityname.medcabinet_originalwrecked>
     <entityname.toxcabinet_originalwrecked>Старый шкаф для токсинов</entityname.toxcabinet_originalwrecked>
-    <entityname.divingsuitlocker_originalwrecked>Старый шкафчик для водолазного костюма</entityname.divingsuitlocker_originalwrecked>
-    <entityname.oxygentankshelf_originalwrecked>Старая полка кислородного баллона</entityname.oxygentankshelf_originalwrecked>
-    <entityname.extinguisherbracket_originalwrecked>Кронштейн для старого огнетушителя</entityname.extinguisherbracket_originalwrecked>
-    <entityname.weaponholder_originalwrecked>Держатель старого оружия</entityname.weaponholder_originalwrecked>
+    <entityname.divingsuitlocker_originalwrecked>Старый шкаф для водолазного скафандра</entityname.divingsuitlocker_originalwrecked>
+    <entityname.oxygentankshelf_originalwrecked>Старая полка для кислородных баллонов</entityname.oxygentankshelf_originalwrecked>
+    <entityname.extinguisherbracket_originalwrecked>Старый держатель огнетушителя</entityname.extinguisherbracket_originalwrecked>
+    <entityname.weaponholder_originalwrecked>Старый держатель оружия</entityname.weaponholder_originalwrecked>
     <entityname.navterminal_originalwrecked>Старый навигационный терминал</entityname.navterminal_originalwrecked>
     <entityname.shuttlenavterminal_originalwrecked>Старый навигационный терминал от Shuttle</entityname.shuttlenavterminal_originalwrecked>
     <entityname.statusmonitor_originalwrecked>Старый монитор состояния</entityname.statusmonitor_originalwrecked>
-    <entityname.sonartransducer_originalwrecked>Преобразователь старого сонара</entityname.sonartransducer_originalwrecked>
-    <entityname.junctionbox_originalwrecked>Старая распределительная коробка</entityname.junctionbox_originalwrecked>
+    <entityname.sonartransducer_originalwrecked>Старый преобразователь сонара</entityname.sonartransducer_originalwrecked>
+    <entityname.junctionbox_originalwrecked>Старая кабельная коробка</entityname.junctionbox_originalwrecked>
     <entityname.battery_originalwrecked>Старая батарея</entityname.battery_originalwrecked>
-    <entityname.shuttlebattery_originalwrecked>Старый аккумулятор от Shuttle</entityname.shuttlebattery_originalwrecked>
+    <entityname.shuttlebattery_originalwrecked>Старый аккумулятор для шаттла</entityname.shuttlebattery_originalwrecked>
     <entityname.supercapacitor_originalwrecked>Старый суперконденсатор</entityname.supercapacitor_originalwrecked>
     <entityname.chargingdock_originalwrecked>Старая док-станция для зарядки</entityname.chargingdock_originalwrecked>
     <entityname.lamp_originalwrecked>Старая лампа</entityname.lamp_originalwrecked>
     <entityname.bunk_originalwrecked>Старая койка</entityname.bunk_originalwrecked>
     <entityname.oldbatterycell>Старый аккумулятор</entityname.oldbatterycell>
     <entitydescription.oldbatterycell>Выглядит неважно.</entitydescription.oldbatterycell>
-    <entityname.oldfpgacircuit>Сломанная схема FPGA</entityname.oldfpgacircuit>
-    <entitydescription.oldfpgacircuit>Может и раньше работает ...</entitydescription.oldfpgacircuit>
+    <entityname.oldfpgacircuit>Сломанная схема на базе ППВМ</entityname.oldfpgacircuit>
+    <entitydescription.oldfpgacircuit>Может ещё работает ...</entitydescription.oldfpgacircuit>
     <entityname.oldsiren>Сломанная сирена</entityname.oldsiren>
-    <entitydescription.oldsiren>Просто не работает ...</entitydescription.oldsiren>
+    <entitydescription.oldsiren>Просто сломана ...</entitydescription.oldsiren>
     <hudbutton.detach_reactor>Отсоединить реактор</hudbutton.detach_reactor>
-    <hudbutton.detach_railgun>Отсоединить рейлган</hudbutton.detach_railgun>
+    <hudbutton.detach_railgun>Отсоединить рельсотрон</hudbutton.detach_railgun>
     <hudbutton.detach_periscope>Отсоединить перископ</hudbutton.detach_periscope>
-    <hudbutton.detach_loader>Отсоединить загрузчик (сначала удалите элементы)</hudbutton.detach_loader>
-    <hudbutton.detach_coilgun>Отсоединить Coilgun</hudbutton.detach_coilgun>
-    <hudbutton.detach_oxygen_generator>Отсоедините генератор кислорода</hudbutton.detach_oxygen_generator>
-    <hudbutton.detach_vent>Отсоединить вентиляционное отверстие</hudbutton.detach_vent>
+    <hudbutton.detach_loader>Отсоединить загрузчик (сначала уберите элементы)</hudbutton.detach_loader>
+    <hudbutton.detach_coilgun>Отсоединить магнитное орудие</hudbutton.detach_coilgun>
+    <hudbutton.detach_oxygen_generator>Отсоединить генератор кислорода</hudbutton.detach_oxygen_generator>
+    <hudbutton.detach_vent>Отсоединить вентиляционный клапан</hudbutton.detach_vent>
     <hudbutton.detach_ladder>Снять лестницу</hudbutton.detach_ladder>
-    <hudbutton.detach_fabricator>Отсоединить фабриканта</hudbutton.detach_fabricator>
-    <hudbutton.detach_med_fabricator>Отсоединить изготовитель медицинского оборудования</hudbutton.detach_med_fabricator>
+    <hudbutton.detach_fabricator>Отсоединить фабрикатор</hudbutton.detach_fabricator>
+    <hudbutton.detach_med_fabricator>Отсоединить медицинский фабрикатор</hudbutton.detach_med_fabricator>
     <hudbutton.detach_deconstructor>Отсоединить деконструктор</hudbutton.detach_deconstructor>
     <hudbutton.detach_engine>Снять двигатель</hudbutton.detach_engine>
     <hudbutton.detach_door>Снять дверь</hudbutton.detach_door>
     <hudbutton.detach_docking_port>Отсоединить стыковочный порт</hudbutton.detach_docking_port>
     <hudbutton.detach_docking_hatch>Снять стыковочный люк</hudbutton.detach_docking_hatch>
-    <hudbutton.detach_supplies_cabinet_first_remove_items>Отсоедините шкаф для расходных материалов (сначала удалите предметы)</hudbutton.detach_supplies_cabinet_first_remove_items>
-    <hudbutton.detach_medium_steel_cabinet_first_remove_items>Отсоединить шкаф (сначала удалите предметы)</hudbutton.detach_medium_steel_cabinet_first_remove_items>
-    <hudbutton.detach_steel_cabinet_first_remove_items>Отсоединить шкаф (сначала удалите предметы)</hudbutton.detach_steel_cabinet_first_remove_items>
-    <hudbutton.detach_secure_cabinet_first_remove_items>Отсоедините безопасный шкаф (сначала удалите предметы)</hudbutton.detach_secure_cabinet_first_remove_items>
-    <hudbutton.detach_railgun_rack_first_remove_items>Отсоедините стойку для патронов рейлгана (сначала удалите предметы)</hudbutton.detach_railgun_rack_first_remove_items>
-    <hudbutton.detach_coilgun_rack_first_remove_items>Отсоедините стойку для боеприпасов для катушки (сначала удалите предметы)</hudbutton.detach_coilgun_rack_first_remove_items>
-    <hudbutton.detach_med_cabinet_first_remove_items>Отсоедините медицинский шкаф (сначала удалите предметы)</hudbutton.detach_med_cabinet_first_remove_items>
-    <hudbutton.detach_tox_cabinet_first_remove_items>Отсоединить шкаф для токсинов (сначала удалите предметы)</hudbutton.detach_tox_cabinet_first_remove_items>
-    <hudbutton.detach_diving_locker_first_remove_items>Отсоедините шкафчик для гидрокостюма (сначала удалите предметы)</hudbutton.detach_diving_locker_first_remove_items>
-    <hudbutton.detach_oxygen_shelf_first_remove_items>Отсоедините кислородную полку (сначала удалите предметы)</hudbutton.detach_oxygen_shelf_first_remove_items>
-    <hudbutton.detach_extinguisher_bracket_first_remove_items>Отсоединить кронштейн (сначала удалите предметы)</hudbutton.detach_extinguisher_bracket_first_remove_items>
-    <hudbutton.detach_weapon_holder_first_remove_items>Отсоедините держатель для оружия (сначала удалите предметы)</hudbutton.detach_weapon_holder_first_remove_items>
-    <hudbutton.detach_terminal>Отключить навигационный терминал</hudbutton.detach_terminal>
+    <hudbutton.detach_supplies_cabinet_first_remove_items>Отсоедините шкаф с припасами (сначала уберите предметы)</hudbutton.detach_supplies_cabinet_first_remove_items>
+    <hudbutton.detach_medium_steel_cabinet_first_remove_items>Отсоединить шкаф (сначала уберите предметы)</hudbutton.detach_medium_steel_cabinet_first_remove_items>
+    <hudbutton.detach_steel_cabinet_first_remove_items>Отсоединить шкаф (сначала уберите предметы)</hudbutton.detach_steel_cabinet_first_remove_items>
+    <hudbutton.detach_secure_cabinet_first_remove_items>Отсоедините защищённый шкаф (сначала уберите предметы)</hudbutton.detach_secure_cabinet_first_remove_items>
+    <hudbutton.detach_railgun_rack_first_remove_items>Отсоедините стойку для патронов рельсотрона (сначала удалите предметы)</hudbutton.detach_railgun_rack_first_remove_items>
+    <hudbutton.detach_coilgun_rack_first_remove_items>Отсоедините стойку для боеприпасов магнитного орудия (сначала уберите предметы)</hudbutton.detach_coilgun_rack_first_remove_items>
+    <hudbutton.detach_med_cabinet_first_remove_items>Отсоедините медицинский шкаф (сначала уберите предметы)</hudbutton.detach_med_cabinet_first_remove_items>
+    <hudbutton.detach_tox_cabinet_first_remove_items>Отсоединить шкаф для токсинов (сначала уберите предметы)</hudbutton.detach_tox_cabinet_first_remove_items>
+    <hudbutton.detach_diving_locker_first_remove_items>Отсоедините шкаф для водолазного скафандра (сначала уберите предметы)</hudbutton.detach_diving_locker_first_remove_items>
+    <hudbutton.detach_oxygen_shelf_first_remove_items>Отсоедините стойку для кислородных баллонов (сначала уберите предметы)</hudbutton.detach_oxygen_shelf_first_remove_items>
+    <hudbutton.detach_extinguisher_bracket_first_remove_items>Отсоединить стойку для огнетушителя (сначала уберите предметы)</hudbutton.detach_extinguisher_bracket_first_remove_items>
+    <hudbutton.detach_weapon_holder_first_remove_items>Отсоединить держатель для оружия (сначала уберите предметы)</hudbutton.detach_weapon_holder_first_remove_items>
+    <hudbutton.detach_terminal>Снять навигационный терминал</hudbutton.detach_terminal>
     <hudbutton.detach_monitor>Отсоединить монитор</hudbutton.detach_monitor>
-    <hudbutton.detach_transducer>Отсоединить датчик</hudbutton.detach_transducer>
-    <hudbutton.detach_junctionbox>Снять распределительную коробку</hudbutton.detach_junctionbox>
-    <hudbutton.detach_battery_first_remove_items>Отсоедините аккумулятор (сначала удалите предметы)</hudbutton.detach_battery_first_remove_items>
+    <hudbutton.detach_transducer>Отсоединить преобразователь сонара</hudbutton.detach_transducer>
+    <hudbutton.detach_junctionbox>Снять кабельную коробку</hudbutton.detach_junctionbox>
+    <hudbutton.detach_battery_first_remove_items>Отсоединить батарею (сначала уберите предметы)</hudbutton.detach_battery_first_remove_items>
     <hudbutton.detach_capacitor>Снять конденсатор</hudbutton.detach_capacitor>
     <hudbutton.detach_charging_dock_first_remove_items>Отсоедините зарядную док-станцию (сначала удалите предметы)</hudbutton.detach_charging_dock_first_remove_items>
     <hudbutton.detach_lamp>Отсоединить лампу</hudbutton.detach_lamp>
     <hudbutton.detach_bunk>Отсоединить койку</hudbutton.detach_bunk>
     <entityname.thalamuscup>Кубок Таламуса</entityname.thalamuscup>
-    <entitydescription.thalamuscup>Для тех, кто убивает таламус</entitydescription.thalamuscup>
+    <entitydescription.thalamuscup>Для тех, кто уничтожил Таламуса</entitydescription.thalamuscup>
     <entityname.wreckedmotor0>Ржавый мотор</entityname.wreckedmotor0>
     <entitydescription.wreckedmotor0>Обычно встречается в затонувших кораблях.</entitydescription.wreckedmotor0>
     <entityname.wreckedgear0>Старая шестерня</entityname.wreckedgear0>
-    <entitydescription.wreckedgear0>Выглядит так плохо, как видите. Разобрать его - лучшее, что вы можете сделать.</entitydescription.wreckedgear0>
+    <entitydescription.wreckedgear0>Выглядит так плохо, как видите. Разобрать это - лучшее, что вы можете сделать.</entitydescription.wreckedgear0>
 </infotexts>
